@@ -3,6 +3,7 @@ import http from "http";
 import { Server } from "socket.io";
 import cors from "cors";
 import { addCategory } from "./ML-mock.mjs";
+import { postRequest } from "./api";
 import dotenv from 'dotenv';
 dotenv.config();
 const app = express();
@@ -40,15 +41,18 @@ io.on("connection", (socket) => {
       created_at: new Date().toLocaleTimeString(),
       category: null,
       sentiment: null,
-      is_closed: false,
+      isClosed: false,
       table: msg.tableNum,
       sender: msg.sender,
     };
 
+
     const categorisedMessage = await addCategory(msg); // mock machine learning function, we can assume that here it would be categorised and sent to the db
     socket.emit("receive-message", categorisedMessage);
-
     io.to("admin").emit("receive-message", categorisedMessage);
+    delete categorisedMessage.created_at;
+    delete categorisedMessage.sender;
+    await postRequest("messages", categorisedMessage)
   });
 
   socket.on("send-admin-message", async (msg) => {
