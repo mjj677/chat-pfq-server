@@ -1,7 +1,5 @@
 import axios from "axios"
 
-import axios from "axios";
-
 const apiURL = axios.create({
     baseURL: "https://chatpfq-api.onrender.com/api/"
 })
