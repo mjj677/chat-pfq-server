@@ -69,6 +69,9 @@ io.on("connection", (socket) => {
     };
 
     io.emit("receive-message", messageData);
+    delete messageData.created_at;
+    delete messageData.sender;
+    await postRequest("messages", messageData)
   });
 
   socket.on("disconnect", () => {
