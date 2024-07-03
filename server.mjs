@@ -3,7 +3,7 @@ import http from "http";
 import { Server } from "socket.io";
 import cors from "cors";
 import { addCategory } from "./ML-mock.mjs";
-import { postRequest } from "./api";
+import { postRequest } from "./api.mjs";
 import dotenv from 'dotenv';
 dotenv.config();
 const app = express();
