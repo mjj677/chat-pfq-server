@@ -41,7 +41,7 @@ io.on("connection", (socket) => {
       body: msg.body,
       from: msg.from,
       to: "admin",
-      created_at: new Date().toLocaleTimeString(),
+      created_at: msg.created_at,
       category: null,
       sentiment: null,
       isClosed: false,
@@ -50,17 +50,15 @@ io.on("connection", (socket) => {
     };
 
     try {
-      messageData.category = await classifyMessage(msg.body)
-
+      messageData.category = await classifyMessage(msg.body);
     } catch (err) {
-      console.log("Error:", err)
-      throw err
+      console.log("Error:", err);
+      throw err;
     }
 
     socket.emit("receive-message", messageData);
     io.to("admin").emit("receive-message", messageData);
 
-    delete messageData.created_at;
     delete messageData.sender;
 
     await postRequest("messages", messageData);
@@ -71,7 +69,7 @@ io.on("connection", (socket) => {
       body: msg.body,
       from: "admin",
       to: msg.replyingTo,
-      created_at: new Date().toLocaleTimeString(),
+      created_at: msg.created_at,
       category: null,
       sentiment: null,
       is_closed: false,
@@ -81,7 +79,6 @@ io.on("connection", (socket) => {
 
     io.emit("receive-message", messageData);
 
-    delete messageData.created_at;
     delete messageData.sender;
 
     await postRequest("messages", messageData);
@@ -98,5 +95,5 @@ const PORT = process.env.PORT || 6969;
 server.listen(PORT, "0.0.0.0", async () => {
   console.log(`Listening on port: ${PORT}`);
 
-  await trainModel()
+  await trainModel();
 });
