@@ -5,7 +5,7 @@ const natural = require("natural");
 
 const loadModel = () => {
   return new Promise((resolve, reject) => {
-    natural.BayesClassifier.load("model.json", null, (err, classifier) => {
+    natural.BayesClassifier.load("subjectModel.json", null, (err, classifier) => {
       if (err) {
         reject(err);
       } else {
