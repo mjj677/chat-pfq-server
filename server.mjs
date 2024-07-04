@@ -2,10 +2,13 @@ import express from "express";
 import http from "http";
 import { Server } from "socket.io";
 import cors from "cors";
-import { addCategory } from "./ML-mock.mjs";
+import dotenv from "dotenv";
+import { classifyMessage } from "./classifier/model.mjs";
+import { trainModel } from "./classifier/classify.mjs";
 import { postRequest } from "./api.mjs";
-import dotenv from 'dotenv';
+
 dotenv.config();
+
 const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
@@ -46,13 +49,21 @@ io.on("connection", (socket) => {
       sender: msg.sender,
     };
 
+    try {
+      messageData.category = await classifyMessage(msg.body)
 
-    const categorisedMessage = await addCategory(msg); // mock machine learning function, we can assume that here it would be categorised and sent to the db
-    socket.emit("receive-message", categorisedMessage);
-    io.to("admin").emit("receive-message", categorisedMessage);
-    delete categorisedMessage.created_at;
-    delete categorisedMessage.sender;
-    await postRequest("messages", categorisedMessage)
+    } catch (err) {
+      console.log("Error:", err)
+      throw err
+    }
+
+    socket.emit("receive-message", messageData);
+    io.to("admin").emit("receive-message", messageData);
+
+    delete messageData.created_at;
+    delete messageData.sender;
+
+    await postRequest("messages", messageData);
   });
 
   socket.on("send-admin-message", async (msg) => {
@@ -69,9 +80,11 @@ io.on("connection", (socket) => {
     };
 
     io.emit("receive-message", messageData);
+
     delete messageData.created_at;
     delete messageData.sender;
-    await postRequest("messages", messageData)
+
+    await postRequest("messages", messageData);
   });
 
   socket.on("disconnect", () => {
@@ -82,6 +95,8 @@ io.on("connection", (socket) => {
 
 const PORT = process.env.PORT || 6969;
 
-server.listen(PORT, '0.0.0.0', () => {
+server.listen(PORT, "0.0.0.0", async () => {
   console.log(`Listening on port: ${PORT}`);
+
+  await trainModel()
 });
