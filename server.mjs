@@ -37,6 +37,10 @@ io.on("connection", (socket) => {
   });
 
   socket.on("send-customer-message", async (msg) => {
+    console.log(
+      msg,
+      "the message first passed to the server in send-customer-message"
+    );
     const messageData = {
       body: msg.body,
       from: msg.from,
@@ -48,6 +52,10 @@ io.on("connection", (socket) => {
       table: msg.tableNum,
       sender: msg.sender,
     };
+    console.log(
+      messageData,
+      "the Message just before being emitted as receive-message before classify"
+    );
 
     try {
       messageData.category = await classifyMessage(msg.body);
@@ -55,12 +63,19 @@ io.on("connection", (socket) => {
       console.log("Error:", err);
       throw err;
     }
-
+    console.log(
+      messageData,
+      "the Message just before being emitted as receive-message after classify"
+    );
     socket.emit("receive-message", messageData);
     io.to("admin").emit("receive-message", messageData);
 
     delete messageData.sender;
 
+    console.log(
+      messageData,
+      "the Message just before  just before passing to the API"
+    );
     await postRequest("messages", messageData);
   });
 
