@@ -5,6 +5,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 import { classifyMessage } from "./classifier/model.mjs";
 import { trainModel } from "./classifier/classify.mjs";
+import { getSentiment } from "./sentiment-analyser/analyser.mjs";
 import { postRequest } from "./api.mjs";
 
 dotenv.config();
@@ -51,16 +52,22 @@ io.on("connection", (socket) => {
 
     try {
       messageData.category = await classifyMessage(msg.body);
+      messageData.sentiment = await getSentiment(msg.body);
     } catch (err) {
       console.log("Error:", err);
       throw err;
     }
 
+    console.log(messageData, "<<<< message object before emission");
+
     socket.emit("receive-message", messageData);
     io.to("admin").emit("receive-message", messageData);
 
     delete messageData.sender;
-
+    console.log(
+      messageData,
+      "<<<< should have sentiment attached just before hitting post request"
+    );
     await postRequest("messages", messageData);
   });
 
