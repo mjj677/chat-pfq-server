@@ -58,16 +58,10 @@ io.on("connection", (socket) => {
       throw err;
     }
 
-    console.log(messageData, "<<<< message object before emission");
-
     socket.emit("receive-message", messageData);
     io.to("admin").emit("receive-message", messageData);
 
     delete messageData.sender;
-    console.log(
-      messageData,
-      "<<<< should have sentiment attached just before hitting post request"
-    );
     await postRequest("messages", messageData);
   });
 
