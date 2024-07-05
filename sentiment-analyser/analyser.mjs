@@ -5,8 +5,15 @@ const Sentiment = require("sentiment");
 const sentiment = new Sentiment();
 
 export const getSentiment = async (message) => {
+  console.log(message, "<<<< message body received in getSentiment");
 
   const result = sentiment.analyze(message);
 
-  return result < 0 ?  "negative" : "positive"
+  console.log(result, "<<<< getSentiment result");
+
+  if (result < 0) {
+    return "negativee";
+  } else {
+    return "positive";
+  }
 };
