@@ -18,7 +18,6 @@ export const getRequest = async (endpoint, params = {}) => {
 export const postRequest = async (endpoint, body) => {
     try {
         const res = await apiURL.post(endpoint, body)
-        console.log(res)
         return res.data
     } catch (err) {
         console.log("Error:", err)

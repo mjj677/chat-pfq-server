@@ -36,9 +36,3 @@ export const preProcessText = async (msg) => {
 
   return processedText;
 };
-
-console.log(
-  await preProcessText(
-    "Hello I am the coolest dawg in the world 😎, I am waving at your 👋!!!!"
-  )
-);
