@@ -98,3 +98,5 @@ server.listen(PORT, "0.0.0.0", async () => {
 
   await trainModel();
 });
+
+console.log(classifyMessage("the service was bad"));
