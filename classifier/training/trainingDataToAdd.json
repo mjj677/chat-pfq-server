@@ -12699,6 +12699,525 @@
     {
       "subject": "Family Friendly",
       "message": "Not family-friendly at all. Why no kids' menu?"
-    }
+    },
+    {
+      "subject": "Ambience",
+      "message": "The lighting was warm and inviting, and the music created a relaxed and enjoyable atmosphere."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant had a beautiful outdoor patio with comfortable seating and lush greenery, creating a tranquil and refreshing ambience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The decor was a bit dated, but the fireplace created a cozy and inviting ambience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant was tastefully decorated and the tables were spaced out well, creating an intimate and sophisticated ambience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The open kitchen added a touch of excitement to the ambience, allowing guests to see the chefs prepare their meals."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant was a bit loud and crowded, making it a less than ideal ambience for a romantic dinner."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The clean lines and modern furniture created a sleek and stylish ambience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The aroma of freshly baked bread filled the air, adding to the warm and inviting ambience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The dimmed lighting and soft music created a romantic and intimate ambience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The view from the restaurant was incredible, adding to the breathtaking ambience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The fireplace and comfortable armchairs created a cozy and inviting ambience, perfect for relaxing with a drink."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant offered a variety of seating options, from a lively bar area to a more intimate patio, catering to different ambience preferences."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The tablecloths and candles created a formal and elegant ambience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The staff was friendly and the music was upbeat, creating a fun and energetic ambience."
+    },
+    {
+      "subject": "Service",
+      "message": "The service was terrible. Why are the waiters always on their phones?"
+    },
+    { "subject": "Food", "message": "Found a hair in my soup. Gross!" },
+    {
+      "subject": "Ambience",
+      "message": "The music is way too loud. How can anyone have a conversation here?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The bathroom is disgusting. Do you ever clean it?"
+    },
+    {
+      "subject": "Price",
+      "message": "Overpriced for such mediocre food. Not coming back."
+    },
+    {
+      "subject": "Drinks",
+      "message": "The cocktails taste like they're watered down. Fix it!"
+    },
+    {
+      "subject": "Location",
+      "message": "This place is so hard to find. Why choose such a bad location?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The outdoor seating area is filthy. Clean it already!"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Not family-friendly at all. Why no kids' menu?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Booking a table is a nightmare. Your system is a mess."
+    },
+    {
+      "subject": "Service",
+      "message": "Why is the service so slow? Waiting 30 minutes for a drink is unacceptable."
+    },
+    {
+      "subject": "Food",
+      "message": "The steak was overcooked and dry. Do you even know how to cook?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The decor is tacky and outdated. Who designed this place?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "Tables are sticky and floors are dirty. Disgusting."
+    },
+    {
+      "subject": "Price",
+      "message": "How can you justify these prices for such low-quality food?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The wine list is terrible. No decent options at all."
+    },
+    {
+      "subject": "Location",
+      "message": "Parking is a nightmare. Find a better spot."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The outdoor area is noisy and uncomfortable. Fix it."
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "No high chairs available. Really?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Double booked our table. Totally unacceptable."
+    },
+    {
+      "subject": "Service",
+      "message": "The waiter was rude and unprofessional. Train your staff."
+    },
+    {
+      "subject": "Food",
+      "message": "The pasta was undercooked and bland. Disappointing."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The lighting is too dim. Can't see my food."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "Dust everywhere. Do you even clean?"
+    },
+    {
+      "subject": "Price",
+      "message": "Ridiculous prices for such small portions."
+    },
+    {
+      "subject": "Drinks",
+      "message": "The beer is flat. What's wrong with your taps?"
+    },
+    {
+      "subject": "Location",
+      "message": "Terrible neighborhood. Felt unsafe walking here."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "No shade outside. Impossible to sit in the sun."
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "No changing table in the bathroom. How is this family-friendly?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Your booking system is a joke. Fix it."
+    },
+    {
+      "subject": "Service",
+      "message": "Waited forever for the check. Why so slow?"
+    },
+    { "subject": "Food", "message": "The burger was cold. Do you even try?" },
+    {
+      "subject": "Ambience",
+      "message": "Horrible smell in the restaurant. Unpleasant dining experience."
+    },
+    { "subject": "Cleanliness", "message": "Saw a cockroach. Disgusting!" },
+    {
+      "subject": "Price",
+      "message": "Way too expensive for what you get. Not worth it."
+    },
+    {
+      "subject": "Drinks",
+      "message": "Drinks are overpriced and poorly made."
+    },
+    { "subject": "Location", "message": "Inconvenient location. Why here?" },
+    {
+      "subject": "Outdoors",
+      "message": "The patio is dirty and neglected. Unpleasant."
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Not a single thing for kids. False advertising."
+    },
+    {
+      "subject": "Booking",
+      "message": "Overbooked and understaffed. Get it together."
+    },
+    {
+      "subject": "Service",
+      "message": "Our server forgot our order. Completely incompetent."
+    },
+    {
+      "subject": "Food",
+      "message": "The salad was wilted and tasteless. Freshness is key!"
+    },
+    {
+      "subject": "Ambience",
+      "message": "Too many TVs. Feels like a sports bar."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The place smells bad. Ever heard of air fresheners?"
+    },
+    { "subject": "Price", "message": "Not worth the money. Overpriced." },
+    { "subject": "Drinks", "message": "The margarita was all ice, no flavor." },
+    {
+      "subject": "Location",
+      "message": "So out of the way. Who thought this was a good idea?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Outdoor seating is uncomfortable. Invest in better chairs."
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Kids' menu is a joke. No variety."
+    },
+    {
+      "subject": "Booking",
+      "message": "Couldn't find our reservation. Total mess."
+    },
+    {
+      "subject": "Service",
+      "message": "Service is slow and inattentive. Why?"
+    },
+    { "subject": "Food", "message": "The dessert was stale. Unacceptable." },
+    {
+      "subject": "Ambience",
+      "message": "Music selection is awful. Turn it off."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The glassware is dirty. Do you wash them properly?"
+    },
+    { "subject": "Price", "message": "Not worth it. Save your money." },
+    { "subject": "Drinks", "message": "Cocktails are overpriced and weak." },
+    { "subject": "Location", "message": "Not easy to get to. Poor planning." },
+    {
+      "subject": "Outdoors",
+      "message": "Patio is neglected. Needs attention."
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "No activities for kids. False claims."
+    },
+    {
+      "subject": "Booking",
+      "message": "Booking system is inefficient. Fix it."
+    },
+    {
+      "subject": "Service",
+      "message": "The waiter spilled water on me and didn't apologize."
+    },
+    {
+      "subject": "Food",
+      "message": "The chicken was raw. Dangerous and unacceptable."
+    },
+    {
+      "subject": "Ambience",
+      "message": "Ambience is lacking. No personality at all."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "Dirty utensils. How do you pass health inspections?"
+    },
+    {
+      "subject": "Price",
+      "message": "Way too expensive for what you get. Not worth it."
+    },
+    {
+      "subject": "Drinks",
+      "message": "The cocktails are poorly made. Hire a better bartender."
+    },
+    {
+      "subject": "Location",
+      "message": "Location is inconvenient and hard to find."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The outdoor area is dirty and uncomfortable."
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Not suitable for families at all."
+    },
+    {
+      "subject": "Booking",
+      "message": "Booking process is a disaster. Needs improvement."
+    },
+    { "subject": "Service", "message": "Waitstaff is inattentive and slow." },
+    { "subject": "Food", "message": "The pasta was overcooked and bland." },
+    {
+      "subject": "Ambience",
+      "message": "The lighting is too dim and depressing."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "Bathrooms are filthy. Disgusting."
+    },
+    { "subject": "Price", "message": "Overpriced for such low-quality food." },
+    {
+      "subject": "Drinks",
+      "message": "The drinks menu is limited and boring."
+    },
+    {
+      "subject": "Location",
+      "message": "The location is terrible. Not worth the trip."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The outdoor area is noisy and uncomfortable."
+    },
+    { "subject": "Family Friendly", "message": "Not family-friendly at all." },
+    {
+      "subject": "Booking",
+      "message": "Booking system is confusing and frustrating."
+    },
+    { "subject": "Service", "message": "Service is slow and unprofessional." },
+    { "subject": "Food", "message": "The burger was dry and tasteless." },
+    { "subject": "Ambience", "message": "The decor is tacky and outdated." },
+    {
+      "subject": "Cleanliness",
+      "message": "Tables are sticky and floors are dirty."
+    },
+    { "subject": "Price", "message": "Not worth the high prices." },
+    { "subject": "Drinks", "message": "The beer selection is disappointing." },
+    { "subject": "Location", "message": "Terrible location. Hard to find." },
+    {
+      "subject": "Outdoors",
+      "message": "Outdoor seating is cramped and uncomfortable."
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Not a family-friendly environment."
+    },
+    { "subject": "Booking", "message": "Booking process needs improvement." },
+    { "subject": "Service", "message": "The staff is rude and inattentive." },
+    { "subject": "Food", "message": "The pizza was burnt and inedible." },
+    {
+      "subject": "Ambience",
+      "message": "The atmosphere is dull and uninviting."
+    },
+    { "subject": "Cleanliness", "message": "Dirty bathrooms. Gross." },
+    { "subject": "Price", "message": "Expensive for what you get." },
+    {
+      "subject": "Drinks",
+      "message": "The cocktails are overpriced and weak."
+    },
+    { "subject": "Location", "message": "Inconvenient location." },
+    { "subject": "Outdoors", "message": "Outdoor area is neglected." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is frustrating." },
+    { "subject": "Service", "message": "Service is slow and inattentive." },
+    { "subject": "Food", "message": "The steak was overcooked." },
+    { "subject": "Ambience", "message": "The music is too loud." },
+    { "subject": "Cleanliness", "message": "Dirty tables and floors." },
+    { "subject": "Price", "message": "Overpriced." },
+    { "subject": "Drinks", "message": "The cocktails are poorly made." },
+    { "subject": "Location", "message": "Hard to find." },
+    { "subject": "Outdoors", "message": "Outdoor seating is uncomfortable." },
+    { "subject": "Family Friendly", "message": "Not family-friendly at all." },
+    { "subject": "Booking", "message": "Booking system is inefficient." },
+    { "subject": "Service", "message": "Service is terrible." },
+    { "subject": "Food", "message": "The food is bland." },
+    { "subject": "Ambience", "message": "The decor is tacky." },
+    { "subject": "Cleanliness", "message": "Dirty bathrooms." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    { "subject": "Service", "message": "Service is bad." },
+    { "subject": "Food", "message": "The food is terrible." },
+    { "subject": "Ambience", "message": "The atmosphere is bad." },
+    { "subject": "Cleanliness", "message": "Dirty place." },
+    { "subject": "Price", "message": "Too expensive." },
+    { "subject": "Drinks", "message": "The drinks are bad." },
+    { "subject": "Location", "message": "Bad location." },
+    { "subject": "Outdoors", "message": "Outdoor area is dirty." },
+    { "subject": "Family Friendly", "message": "Not family-friendly." },
+    { "subject": "Booking", "message": "Booking process is terrible." }
   ]
 }
