@@ -13218,6 +13218,418 @@
     { "subject": "Location", "message": "Bad location." },
     { "subject": "Outdoors", "message": "Outdoor area is dirty." },
     { "subject": "Family Friendly", "message": "Not family-friendly." },
-    { "subject": "Booking", "message": "Booking process is terrible." }
+    { "subject": "Booking", "message": "Booking process is terrible." },
+    {
+      "subject": "Outdoors",
+      "message": "The patio was beautifully decorated with string lights and comfortable seating, creating a perfect ambiance for a summer evening."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The outdoor seating was a bit cramped and the tables were close together, making it feel crowded."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "There wasn't any outdoor seating available, which was a shame because the weather was beautiful."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The restaurant has a lovely rooftop patio with stunning views of the city. It's a must-try on a clear night!"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The outdoor seating area could have been cleaner. There were a few empty tables with leftover food and crumbs."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "While the restaurant doesn't have outdoor seating, the large windows offered plenty of natural light and a refreshing breeze."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "I was disappointed that the outdoor patio was closed for the season. Hopefully, they'll reopen it soon!"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The heat lamps on the patio kept us warm on a chilly evening, allowing us to enjoy the outdoor dining experience."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The outdoor space was dog-friendly, which was a big plus for us! Our pup loved relaxing under the table."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The restaurant would be even better if they offered outdoor seating. It would be perfect for enjoying a meal on a nice day."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The string lights and fire pit on the patio created a warm and inviting atmosphere, perfect for an evening meal."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The live music on the patio added to the lively ambience, but it might be a bit too loud for some people."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The umbrellas on the patio provided much-needed shade on a hot and sunny day."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The view from the outdoor seating was partially obstructed by construction work, which was a bit disappointing."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The patio was beautifully decorated with string lights and comfortable seating, creating a perfect ambiance for a summer evening."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The outdoor seating was a bit cramped and the tables were close together, making it feel crowded."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "There wasn't any outdoor seating available, which was a shame because the weather was beautiful."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The restaurant has a lovely rooftop patio with stunning views of the city. It's a must-try on a clear night!"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The outdoor seating area could have been cleaner. There were a few empty tables with leftover food and crumbs."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "While the restaurant doesn't have outdoor seating, the large windows offered plenty of natural light and a refreshing breeze."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "I was disappointed that the outdoor patio was closed for the season. Hopefully, they'll reopen it soon!"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The heat lamps on the patio kept us warm on a chilly evening, allowing us to enjoy the outdoor dining experience."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The outdoor space was dog-friendly, which was a big plus for us! Our pup loved relaxing under the table."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The restaurant would be even better if they offered outdoor seating. It would be perfect for enjoying a meal on a nice day."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The string lights and fire pit on the patio created a warm and inviting atmosphere, perfect for an evening meal."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The live music on the patio added to the lively ambience, but it might be a bit too loud for some people."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The umbrellas on the patio provided much-needed shade on a hot and sunny day."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The view from the outdoor seating was partially obstructed by construction work, which was a bit disappointing."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The string lights twinkled overhead, creating a magical atmosphere on the patio."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The comfy outdoor armchairs were perfect for relaxing and enjoying a conversation with friends."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The abundance of plants on the patio created a lush and refreshing environment."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The slight drizzle didn't dampen our spirits thanks to the retractable awning on the patio."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The outdoor space felt a bit secluded, even though it was located right on the main street."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The soft glow of the fairy lights on the patio created a romantic ambiance perfect for a date night."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The large heaters on the patio kept us warm on a chilly fall evening."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The refreshing ocean breeze was a welcome change from the hustle and bustle of the city, making the outdoor seating even more enjoyable."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The restaurant offered blankets for guests sitting on the patio on a cooler evening, which was a thoughtful touch."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The live music on the patio was a bit too loud for conversation, but it created a fun and festive atmosphere."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The view from the rooftop patio was breathtaking, especially at sunset."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The fairy lights twinkled overhead, creating a magical atmosphere on the terrace."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The comfy armchairs were perfect for lounging and catching up with friends under the stars."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The abundance of greenery created a lush and refreshing oasis."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The retractable awning kept us dry from the unexpected drizzle."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The secluded feel of the patio was surprising considering its location on the main street."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The soft glow of the string lights cast a romantic ambiance, perfect for an evening under the moon."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The large heaters took the chill off the fall evening, allowing us to enjoy the starlight."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The ocean breeze was a welcome escape from the city's energy, making the terrace even more enjoyable."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The restaurant provided blankets for cooler evenings, a thoughtful touch for diners under the stars."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The live music added a festive vibe, though it was a bit loud for conversation under the moonlight."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The rooftop view was incredible, especially as the sun dipped below the horizon."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The seating felt a bit cramped, with tables close together on the terrace."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The lack of a terrace was a shame on such a beautiful day. Sunshine dining would have been perfect."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The terrace could have been cleaner. There were leftover crumbs on some tables."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "While the restaurant doesn't have a terrace, the large windows offered plenty of natural light and a refreshing breeze."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Disappointed the terrace was closed for the season! Hopefully, they'll reopen it soon for al fresco dining."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The heat lamps kept us warm on the terrace, allowing us to enjoy a delightful meal beneath the stars."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The terrace was dog-friendly, a big plus! Our pup loved relaxing under the table."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "This restaurant would be even better with a terrace. Imagine enjoying a meal on a sunny day!"
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The fire pit on the terrace created a warm and inviting atmosphere, perfect for an evening meal."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The twinkling lights overhead cast a magical spell, transforming the patio into a delightful haven."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The plush seating on the terrace invited us to linger and savor the conversation beneath the starry expanse."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The vibrant flowers and climbing vines created a living wall, adding a touch of nature's beauty to the al fresco dining experience."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The cleverly designed canopy offered refuge from the brief downpour, allowing us to continue our meal uninterrupted."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Nestled amongst the bustling street scene, the patio offered a surprising oasis of tranquility."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The soft glow of the lanterns bathed the terrace in a warm, intimate light, perfect for a romantic dinner."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The crackling fire in the pit took the edge off the cool night air, allowing us to dine comfortably under the celestial tapestry."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The salty breeze carried the scent of the ocean, adding a refreshing touch to the terrace ambiance."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The thoughtful touch of providing cozy throws for cooler evenings made dining under the stars even more enjoyable."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The lively music added a touch of vibrancy, although it did make conversation a bit challenging under the moonlit sky."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The panoramic vista from the rooftop was awe-inspiring, especially as the sun painted the sky with vibrant hues at sunset."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The tables on the terrace felt a bit too close together, making conversation a bit difficult."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The absence of a terrace on such a beautiful day was a missed opportunity. Soaking up the sunshine while dining would have been ideal."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The terrace could have benefited from a bit more attention. Crumbs lingered on some tables from previous diners."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "While the restaurant lacks a terrace, the large windows bathed the interior in natural light and a refreshing breeze, providing a connection to the outdoors."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Disappointed to find the terrace closed for the season. Hopefully, they'll reopen it soon for enjoying meals under the open sky."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The strategically placed heat lamps ensured warmth on the terrace, allowing us to enjoy a delightful meal beneath the twinkling stars."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The terrace catered to our furry friend! Our pup loved lounging under the table on the dog-friendly patio."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "Imagine enjoying a meal on a sunny day! A terrace would truly elevate the dining experience at this restaurant."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The crackling fire in the pit created a warm and inviting atmosphere on the terrace, perfect for an evening meal beneath the stars."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The chirping of crickets and the rustling of leaves created a peaceful soundtrack to our al fresco dining experience."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The comfortable wicker chairs on the terrace were perfect for sinking into and enjoying the warm sunshine."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The abundance of colorful umbrellas provided shade from the scorching sun, creating a cool and inviting haven on the terrace."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The string lights strung between the trees cast a warm glow, transforming the patio into a magical setting for an evening meal."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The secluded location of the patio offered a welcome escape from the city's noise and crowds."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The flickering candles on the tables bathed the terrace in a soft, romantic light, perfect for a special occasion."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The fragrant aroma of blooming jasmine flowers filled the air, adding a touch of sweetness to the terrace ambiance."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The gentle swaying of palm trees provided a relaxing tropical vibe on the terrace."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The restaurant thoughtfully provided bug spray on the tables, a lifesaver on the mosquito-filled patio."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The lively music added a touch of energy, although it might be a bit too much for a quiet conversation under the stars."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The panoramic vista from the rooftop took our breath away, showcasing the city lights twinkling below."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The tables on the terrace seemed a bit wobbly, making the dining experience a bit precarious."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The lack of shade options on the terrace made it a bit unpleasant on a scorching summer day."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The cleanliness of the terrace could have been improved. There were empty beer bottles left on some tables."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "The large windows offered a view of a charming garden, providing a connection to the outdoors even without a terrace."
+    },
+    {
+      "subject": "Outdoors",
+      "message": "We were disappointed to find the terrace closed due to a private event. Hopefully, it'll be available next time for a meal under the stars."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The overhead fans kept us cool on the warm evening, allowing us to enjoy a delightful meal beneath the twinkling sky."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The terrace catered to our four-legged friend with water bowls and a designated area for them to play."
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "This restaurant would be a favorite among locals if it had a terrace. Imagine enjoying a leisurely meal under the sunshine on a weekend!"
+    },
+
+    {
+      "subject": "Outdoors",
+      "message": "The cascading fountain on the terrace added a soothing sound and a touch of visual interest to the dining experience."
+    }
   ]
 }
