@@ -6,6 +6,334 @@
     },
     {
       "subject": "Food",
+      "message": "Does anything on the menu come highly recommended by the chef? They must have a favorite!"
+    },
+    {
+      "subject": "Food",
+      "message": "We'd love to try a bit of everything! Do you offer any sampler platters or tasting menus?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish features [ingredient]. How is it prepared? Is it roasted, pickled, or something else?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can you recommend a side dish that would complement the flavors of this entree?"
+    },
+    {
+      "subject": "Food",
+      "message": "I'm curious about the origin of the name for this dish. Can you share any history behind it?"
+    },
+    {
+      "subject": "Food",
+      "message": "Is there a vegetarian option for the sauce used in this dish?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds very flavorful. Does it pack a spicy punch, or is it more on the mild side?"
+    },
+    {
+      "subject": "Food",
+      "message": "Are there any seasonal ingredients used in this dish?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds perfect for sharing. Do you offer plates for sharing, or should we order individual portions?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I see the dessert menu, please? I'm always looking for a sweet ending to a delicious meal."
+    },
+    {
+      "subject": "Food",
+      "message": "Does the restaurant make their own bread, or is it sourced from elsewhere?"
+    },
+    {
+      "subject": "Food",
+      "message": "How is the seafood sourced for this dish? Sustainability is important to me."
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a lighter option. Is it a good choice for someone watching their calorie intake?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can you recommend a non-alcoholic beverage that would pair well with this dish?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish is described as 'rustic.' Can you elaborate on what that means in terms of preparation or presentation?"
+    },
+    {
+      "subject": "Food",
+      "message": "Are there any vegetarian options for the appetizer selection?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a classic. Has it been on the menu for a long time?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I substitute mashed potatoes for the rice that comes with this dish?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a fusion of flavors. What cuisines are represented?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can you describe the texture of the [ingredient] in this dish? Is it crispy, soft, or something else?"
+    },
+    {
+      "subject": "Food",
+      "message": "Is there a vegetarian chili option available? I love a good hearty chili, but I don't eat meat."
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds perfect for a hot summer day. Is it served chilled?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I get a recommendation for a vegetarian main course that's filling and satisfying?"
+    },
+    {
+      "subject": "Food",
+      "message": "How is the [type of meat] cooked in this dish? Grilled, roasted, or something else?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a comfort food classic. Is it a traditional recipe, or with a modern twist?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I customize the spice level on this dish? I love a little heat, but I can't handle too much."
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a vegetarian delight. What kind of vegetables are used?"
+    },
+    {
+      "subject": "Food",
+      "message": "Are there any vegan options for the cheese selection on the cheese board?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds perfect for a celebratory occasion. Is it a good choice for a special night out?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I get a recommendation for a dessert that's not too heavy?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a healthy option. Is it a good choice for someone following a specific diet (paleo, keto, etc.)?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can you describe the presentation of this dish? Is it plated creatively?"
+    },
+    {
+      "subject": "Food",
+      "message": "Are there any vegetarian options for the burger selection?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a hearty breakfast option. Is it available all day?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I get a recommendation for a vegetarian main course that's light and flavorful?"
+    },
+    {
+      "subject": "Food",
+      "message": "How is the [type of seafood] prepared in this dish? Pan-seared, fried, or something else?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a delicious way to end the meal. Is it a popular choice for dessert?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I get a recommendation for a vegan dessert that's still decadent and satisfying?"
+    },
+    {
+      "subject": "Food",
+      "message": "Does the restaurant offer any dairy-free dessert options?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a classic Italian dish. Is the recipe authentic?"
+    },
+    {
+      "subject": "Food",
+      "message": "I'm feeling adventurous! Do you have any off-menu items you can recommend?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like it would be perfect for dipping. Do you recommend any specific sides to go with it?"
+    },
+    {
+      "subject": "Food",
+      "message": "I see the entree comes with a side salad. Can I substitute it for something else, like roasted vegetables?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a lighter option, but can you tell me if it's filling enough for a main course?"
+    },
+    {
+      "subject": "Food",
+      "message": "I'm following a specific diet (gluten-free, dairy-free, etc.). Can you recommend any options on the menu that would be suitable?"
+    },
+    {
+      "subject": "Food",
+      "message": "The portion sizes aren't listed on the menu. Can you give me an idea of how big the [dish name] is?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish features [ingredient]. Is it possible to have it prepared without that ingredient?"
+    },
+    {
+      "subject": "Food",
+      "message": "Is there a vegetarian option for this dish, or can it be modified to be vegetarian?"
+    },
+    {
+      "subject": "Food",
+      "message": "How long does it typically take for the main courses to come out after we order?"
+    },
+    {
+      "subject": "Food",
+      "message": "Since we're celebrating a special occasion, do you offer any celebratory desserts or after-dinner drinks?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a comfort food classic. Is it a traditional recipe, or with a modern twist?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I customize the spice level on this dish? I love a little heat, but I can't handle too much."
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a vegetarian delight. What kind of vegetables are used?"
+    },
+    {
+      "subject": "Food",
+      "message": "Are there any vegan options for the cheese selection on the cheese board?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds perfect for a celebratory occasion. Is it a good choice for a special night out?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I get a recommendation for a dessert that's not too heavy?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a healthy option. Is it a good choice for someone following a specific diet (paleo, keto, etc.)?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can you describe the presentation of this dish? Is it plated creatively?"
+    },
+    {
+      "subject": "Food",
+      "message": "Are there any vegetarian options for the burger selection?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a hearty breakfast option. Is it available all day?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I get a recommendation for a vegetarian main course that's light and flavorful?"
+    },
+    {
+      "subject": "Food",
+      "message": "How is the [type of seafood] prepared in this dish? Pan-seared, fried, or something else?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a delicious way to end the meal. Is it a popular choice for dessert?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I get a recommendation for a vegan dessert that's still decadent and satisfying?"
+    },
+    {
+      "subject": "Food",
+      "message": "Does the restaurant offer any dairy-free dessert options?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a classic Italian dish. Is the recipe authentic?"
+    },
+    {
+      "subject": "Food",
+      "message": "I'm feeling adventurous! Do you have any off-menu items you can recommend?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like it would be perfect for dipping. Do you recommend any specific sides to go with it?"
+    },
+    {
+      "subject": "Food",
+      "message": "I see the entree comes with a side salad. Can I substitute it for something else, like roasted vegetables?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a lighter option, but can you tell me if it's filling enough for a main course?"
+    },
+    {
+      "subject": "Food",
+      "message": "I'm following a specific diet (gluten-free, dairy-free, etc.). Can you recommend any options on the menu that would be suitable?"
+    },
+    {
+      "subject": "Food",
+      "message": "The portion sizes aren't listed on the menu. Can you give me an idea of how big the [dish name] is?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish features [ingredient]. Is it possible to have it prepared without that ingredient?"
+    },
+    {
+      "subject": "Food",
+      "message": "Is there a vegetarian option for this dish, or can it be modified to be vegetarian?"
+    },
+    {
+      "subject": "Food",
+      "message": "How long does it typically take for the main courses to come out after we order?"
+    },
+    {
+      "subject": "Food",
+      "message": "Since we're celebrating a special occasion, do you offer any celebratory desserts or after-dinner drinks?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds delicious, but can it be made a little less spicy? I love the flavors, but I can't handle too much heat."
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds delicious, but can it be made a little less spicy? I love the flavors, but I can't handle too much heat."
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a great way to start the meal. Is it a good size for sharing?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I get a recommendation for a vegetarian appetizer with a bit of a kick?"
+    },
+    {
+      "subject": "Food",
+      "message": "Does the restaurant offer any gluten-free bread options?"
+    },
+    {
+      "subject": "Food",
+      "message": ""
+    },
+    {
+      "subject": "Food",
       "message": "Can you recommend a popular dish here?"
     },
     {
@@ -1798,8 +2126,185 @@
     },
     {
       "subject": "Ambience",
+      "message": "The noise level was unbearable; we could barely hear each other over the loud chatter and clinking dishes. It really ruined the dining experience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The outdoor seating area was fantastic with beautiful fairy lights and comfortable chairs. It was a delightful setting for a summer evening."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The air conditioning was too cold, making it uncomfortable to sit through the meal. It felt more like a refrigerator than a cozy restaurant."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The ambiance was perfect with soft lighting and a charming rustic decor. It felt very welcoming and homely."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant was too crowded and the tables were placed too close together. It felt cramped and lacked privacy."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The music selection was fantastic! It created a lively atmosphere without being overpowering."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant felt a bit too brightly lit. It would be more relaxing with slightly dimmed lights."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The artwork on the walls was a lovely touch. It added a unique personality to the space."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant felt very spacious and airy. It was a comfortable environment to enjoy a meal."
+    },
+    {
+      "subject": "Ambience",
+      "message": "There were several large groups celebrating at nearby tables, which made it a bit noisy. Is there a quieter section available?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The fireplace added a cozy and warm touch to the atmosphere. It was perfect for a chilly evening."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant felt a bit too formal for a casual dinner. Is the dress code strictly enforced?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The outdoor patio seemed like a lovely spot, but is there any kind of heating available for cooler evenings?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The live music performance added a wonderful touch to the ambiance. It was a great way to experience the local culture."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant felt a bit too quiet and sterile. Some background music would create a more welcoming atmosphere."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The view from the window table was breathtaking! It definitely enhanced the dining experience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant was decorated beautifully for the holidays. It created a festive and cheerful atmosphere."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The tables seemed a bit wobbly, which made it a little precarious for balancing our drinks and plates."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The overall ambiance felt very modern and chic. It was a stylish environment to enjoy a meal."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant had a nice balance of being lively without being too loud. It was a perfect atmosphere for conversation."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The outdoor seating area seemed a bit too close to the street.  Is there a quieter section available?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant smelled amazing! It definitely built up our anticipation for the food."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The seating was very comfortable, with plenty of space between tables. It made for a relaxing dining experience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed a bit understaffed, which made the service a little slow. Did they have an unexpected rush?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The dress code seems a bit unclear on the website. Can you tell me what kind of attire is most appropriate for this restaurant?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The background music was a bit too loud, making it difficult to have a conversation at our table."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The tables were a bit close together for our comfort level. Is there a possibility of being seated at a table with more space?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant felt very trendy and stylish. Is this a typical atmosphere for your establishment?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The outdoor seating looked lovely, but is there much shade available for sunny days?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "There seemed to be a draft coming from somewhere.  Is it possible to adjust the air conditioning or heating?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant felt very clean and well-maintained. It made for a pleasant dining experience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed a bit too dark for our taste. Is there any way to adjust the lighting level at our table?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The overall vibe of the restaurant felt very relaxed and casual. It was a comfortable setting to enjoy a meal with friends."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed like a popular spot for families with young children. Is there a quieter section available if we're looking for a more intimate setting?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "There were several large TVs playing sports in the bar area.  Is there a section of the restaurant that's quieter and doesn't have TVs?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed like a great place for a business lunch.  Is there a section that's conducive to conversation and meetings?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The outdoor seating looked lovely, but is there much foot traffic from people walking by?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed like a popular spot for a romantic dinner.  Is there anything special you can do to make our experience more intimate?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant had a wonderful aroma of fresh bread and spices. It definitely built up our anticipation for the food."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed like a great place for a celebratory occasion.  Is there anything special you can do to enhance the experience?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "There was a pleasant buzz of conversation in the restaurant, but it wasn't too loud to be disruptive. It created a lively atmosphere."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The tables were decorated with beautiful flowers, which added a nice touch to the atmosphere."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed like a great place to bring a group of friends for a fun night out.  Is there a section that can accommodate larger groups?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The lighting in the restroom was a bit dim, making it difficult to see properly."
+    },
+    {
+      "subject": "Ambience",
       "message": "The ambiance was ruined by the loud and obnoxious music. It was impossible to enjoy a quiet dinner with such a racket."
     },
+
     {
       "subject": "Ambience",
       "message": "The intimate lighting and elegant decor made for a romantic setting. We thoroughly enjoyed the pleasant atmosphere."
@@ -1819,6 +2324,202 @@
     {
       "subject": "Ambience",
       "message": "The beautiful garden seating area was a highlight, providing a serene and picturesque dining experience. We loved it!"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The noise level was unbearable; we could barely hear each other over the loud chatter and clinking dishes. It really ruined the dining experience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The outdoor seating area was fantastic with beautiful fairy lights and comfortable chairs. It was a delightful setting for a summer evening."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The air conditioning was too cold, making it uncomfortable to sit through the meal. It felt more like a refrigerator than a cozy restaurant."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The ambiance was perfect with soft lighting and a charming rustic decor. It felt very welcoming and homely."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant was too crowded and the tables were placed too close together. It felt cramped and lacked privacy."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The music selection was fantastic! It created a lively atmosphere without being overpowering."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant felt a bit too brightly lit. It would be more relaxing with slightly dimmed lights."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The artwork on the walls was a lovely touch. It added a unique personality to the space."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant felt very spacious and airy. It was a comfortable environment to enjoy a meal."
+    },
+    {
+      "subject": "Ambience",
+      "message": "There were several large groups celebrating at nearby tables, which made it a bit noisy. Is there a quieter section available?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The fireplace added a cozy and warm touch to the atmosphere. It was perfect for a chilly evening."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant felt a bit too formal for a casual dinner. Is the dress code strictly enforced?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The outdoor patio seemed like a lovely spot, but is there any kind of heating available for cooler evenings?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The live music performance added a wonderful touch to the ambiance. It was a great way to experience the local culture."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant felt a bit too quiet and sterile. Some background music would create a more welcoming atmosphere."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The view from the window table was breathtaking! It definitely enhanced the dining experience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant was decorated beautifully for the holidays. It created a festive and cheerful atmosphere."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The tables seemed a bit wobbly, which made it a little precarious for balancing our drinks and plates."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The overall ambiance felt very modern and chic. It was a stylish environment to enjoy a meal."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant had a nice balance of being lively without being too loud. It was a perfect atmosphere for conversation."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The outdoor seating area seemed a bit too close to the street.  Is there a quieter section available?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant smelled amazing! It definitely built up our anticipation for the food."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The seating was very comfortable, with plenty of space between tables. It made for a relaxing dining experience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed a bit understaffed, which made the service a little slow. Did they have an unexpected rush?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The dress code seems a bit unclear on the website. Can you tell me what kind of attire is most appropriate for this restaurant?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The background music was a bit too loud, making it difficult to have a conversation at our table."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The tables were a bit close together for our comfort level. Is there a possibility of being seated at a table with more space?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant felt very trendy and stylish. Is this a typical atmosphere for your establishment?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The outdoor seating looked lovely, but is there much shade available for sunny days?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "There seemed to be a draft coming from somewhere.  Is it possible to adjust the air conditioning or heating?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant felt very clean and well-maintained. It made for a pleasant dining experience."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed a bit too dark for our taste. Is there any way to adjust the lighting level at our table?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The overall vibe of the restaurant felt very relaxed and casual. It was a comfortable setting to enjoy a meal with friends."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed like a popular spot for families with young children. Is there a quieter section available if we're looking for a more intimate setting?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "There were several large TVs playing sports in the bar area.  Is there a section of the restaurant that's quieter and doesn't have TVs?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed like a great place for a business lunch.  Is there a section that's conducive to conversation and meetings?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The outdoor seating looked lovely, but is there much foot traffic from people walking by?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed like a popular spot for a romantic dinner.  Is there anything special you can do to make our experience more intimate?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant had a wonderful aroma of fresh bread and spices. It definitely built up our anticipation for the food."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed like a great place for a celebratory occasion.  Is there anything special you can do to enhance the experience?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "There was a pleasant buzz of conversation in the restaurant, but it wasn't too loud to be disruptive. It created a lively atmosphere."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The tables were decorated with beautiful flowers, which added a nice touch to the atmosphere."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed like a great place to bring a group of friends for a fun night out.  Is there a section that can accommodate larger groups?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed a bit echoey.  Would it be possible to be seated in a quieter area?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The lighting seemed to change throughout the meal.  Was this intentional, or is there a way to keep it consistent?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant had a unique scent, but it wasn't unpleasant.  Can you tell me what it is?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "There were a few strong perfumes in the air.  Does the restaurant have a policy on fragrance use?"
+    },
+    {
+      "subject": "Ambience",
+      "message": "The lighting in the restroom was a bit dim, making it difficult to see properly."
+    },
+    {
+      "subject": "Ambience",
+      "message": "The restaurant seemed a bit understaffed, which made the service a little slow. Did they have an unexpected rush?"
     },
     {
       "subject": "Ambience",
@@ -1947,6 +2648,402 @@
     {
       "subject": "Cleanliness",
       "message": "The outdoor patio was beautifully maintained, with clean tables and comfortable seating. The fresh flowers on each table were a lovely touch, adding a sense of elegance to the already clean and inviting space."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We were very impressed by the cleanliness of the restrooms. They were well-stocked with fresh towels and soap, and had a fresh scent that wasn't overpowering. It's the little details that make a big difference!"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "It was clear that the staff takes pride in keeping the restaurant clean. We saw them wiping down tables and sweeping floors regularly, ensuring a pleasant and hygienic dining experience for all guests."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall impression was one of cleanliness and hygiene. Not only were the dining areas and restrooms spotless, but the staff was also well-presented, adding to the positive atmosphere."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The outdoor patio was beautifully maintained, with clean tables and comfortable seating. The fresh flowers on each table were a lovely touch, adding a sense of elegance to the already clean and inviting space."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We noticed a few crumbs on the floor beneath our table. Could someone please sweep up the area?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The menus seemed a little sticky.  Would it be possible to get some sanitized ones?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "I noticed a chip in the rim of my glass.  Would you mind replacing it with a clean one?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The high chairs for children seemed a bit dusty.  Do you have any wipes available to clean them off?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We saw a staff member using a sanitizer wipe on the tables, which is great!  Do they also sanitize the chairs between seatings?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The soap dispenser in the restroom seemed a bit empty.  Could someone please refill it?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There was a used tissue on the floor in the restroom stall.  Would you mind sending someone to clean it up?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall impression of the restaurant was very clean and well-maintained.  It made for a pleasant dining experience."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We were a bit concerned about a spill we saw near the entrance.  Has it been cleaned up?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The tablecloths seemed a bit wrinkled.  Would it be possible to get a freshly ironed one?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The water glasses had a faint water spot.  Would you mind bringing us fresh glasses with clean water?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The condiment bottles on the table seemed a bit sticky.  Do you wipe them down regularly?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We noticed a few flies buzzing around the outdoor patio.  Do you have any fly traps or repellents in use?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The garbage bin near our table was overflowing.  Would it be possible to empty it soon?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The utensils seemed a bit dusty.  Would you mind bringing us a fresh set?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant was a big plus.  We felt comfortable and safe dining here."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We noticed a recycling bin in the restaurant.  Do you also compost any food scraps?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The hand dryers in the restroom seemed a bit loud.  Are there paper towels available as an alternative?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The staff uniforms seemed a bit stained.  Is there a dress code for cleanliness of clothing?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There was a faint unpleasant odor coming from the restroom.  Do you have an air freshener or odor neutralizer in use?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We saw a dirty plate being stacked with clean ones.  Could you remind staff to separate them?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The menus had some leftover food particles stuck to them.  Would you mind bringing us fresh ones?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The window next to our table seemed a bit dusty.  Does the restaurant have regular window cleaning?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The sugar dispenser on the table seemed clogged.  Do you have a backup dispenser available?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There was a spill on the floor near the restroom entrance.  Is there a wet floor sign available to warn others?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The high chair tray we received had some dried food stuck on it.  Would you mind giving it a quick wipe down?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant restrooms is very important to us.  Did they pass their recent health inspection?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We noticed a chipped plate being used for serving food.  Could you replace it with a whole one for safety reasons?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The outdoor seating cushions seemed a bit stained.  Are they cleaned regularly?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We were happy to see recycling bins available.  Are they clearly labeled for different materials?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The soap dispenser in the restroom seemed to be dispensing too much soap.  Maybe an adjustment is needed?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There were a few empty tissue boxes on the tables in the restroom.  Could they be refilled?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We appreciate the clean and well-maintained restrooms.  They make a positive impression on guests."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall impression of the restaurant was a bit dusty, especially on the decorative shelves."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We noticed a small spiderweb in the corner of the ceiling.  Do you have regular pest control services?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The water in the cup for our iced tea seemed a bit cloudy.  Is the water filter functioning properly?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The salt and pepper shakers on the table seemed a bit greasy.  Do you wipe them down between uses?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant was a major factor in choosing to dine here.  We were not disappointed."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There seems to be a leak under the sink in the restroom.  Would someone be able to take a look at it?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The menus had a plastic coating that felt a bit sticky.  Are they sanitized regularly?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We were happy to see staff washing their hands frequently.  It shows a commitment to hygiene."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant was a bit uneven.  Some areas seemed spotless, while others needed attention."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The takeout containers seemed a bit flimsy.  Are there sturdier options available to prevent spills?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We were impressed to see staff wiping down tables after each customer.  It ensures a clean dining experience for everyone."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant contributes significantly to the atmosphere.  We appreciate the effort to maintain a high standard."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There were a few dead flies in the windowsill.  Perhaps some insect traps would be helpful?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The hand soap in the restroom seemed a bit watered down.  Is it possible to replace it with a thicker formula?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We were a bit concerned about a chipped mug being used for coffee service.  Could it be replaced with a safe one?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The table we were seated at wobbled slightly.  Is there another table available that's more stable?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant reflects well on the management.  It shows a commitment to quality."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There seemed to be a faint mildew smell coming from the restroom.  Regular cleaning with disinfectant might help."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We noticed staff using separate cutting boards for raw and cooked food.  That's a great practice for food safety!"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant exceeded our expectations.  We felt very comfortable dining here."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The ice in our drinks seemed a bit cloudy.  Is the ice machine cleaned and sanitized regularly?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The utensils seemed to have some water spots.  Are they dried thoroughly after washing?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We were impressed to see staff using gloves when handling raw ingredients in the kitchen."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant was a bit disappointing.  We noticed a few tables that hadn't been wiped down properly."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The high chairs seemed a bit sticky.  Do you have disinfectant wipes available for cleaning them?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The restaurant seemed to be very eco-conscious with compostable takeout containers.  A great initiative!"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant was evident in the sparkling glassware and cutlery."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There were a few overflowing ashtrays in the designated smoking area.  Could they be emptied more frequently?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We were happy to see disposable placemats available for children.  They help keep the tables cleaner."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant is an important factor for us when choosing a place to dine.  We were very satisfied here."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There were a few crumbs on the seat of our booth.  Would you mind giving it a quick wipe down?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The staff uniforms seemed wrinkled.  While not necessarily a cleanliness issue, it does affect the overall presentation of the restaurant."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There were a few cobwebs around the light fixtures.  A more thorough dusting might be helpful."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The menus seemed a bit outdated and worn.  Are there plans to update them with fresh copies?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The water in the restrooms seemed to have low pressure.  Is there an issue with the plumbing?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We noticed a faint stain on the tablecloth.  Could we be offered a clean one?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The condiment shakers on the table seemed a bit difficult to dispense.  Perhaps they need refilling or a cleaning?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant is important for creating a positive dining experience.  We were happy with the standards here."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There were a few leaves on the floor of the outdoor patio.  Could someone sweep them up for a tidier appearance?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall impression of the restaurant was spotless and well-maintained.  It showed a high level of care and attention to detail."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We were impressed to see staff refilling condiments and cleaning tables promptly.  It ensures a smooth dining experience for guests."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant is a major factor in our decision to return for another visit.  We were very impressed."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There seemed to be a lingering food odor coming from the kitchen area.  Perhaps improved ventilation would help?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant was evident in the bright and polished surfaces throughout the dining area."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We noticed a few dirty dishes stacked by the service counter.  Perhaps a designated bussing area would be more efficient?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant was a bit surprising given the high price point.  We expected a more immaculate presentation."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We were happy to see staff using sanitizer wipes on the menus after each use.  It's a great way to prevent the spread of germs."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The restaurant seemed to be very eco-friendly.  Do they use any cleaning products that are green-certified?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We were impressed with the automatic hand sanitizer dispensers in the restrooms.  It's a convenient and hygienic touch."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There were a few dirty napkins left on the floor underneath the table.  Could someone clear them away?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant contributes to the overall ambiance.  A well-maintained space creates a more enjoyable dining experience."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We noticed a small tear in the tablecloth.  Would you mind replacing it with a whole one?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The expiration dates on the condiments seemed a bit faded.  Are they checked and replaced regularly?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant was a bit overshadowed by the loud music.  A quieter environment would have been more relaxing."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We were happy to see recycling bins available in the restrooms as well.  It shows a commitment to sustainability."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant was evident in the fresh flowers on the tables.  It's a nice touch that adds to the ambiance."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There seemed to be a faint smoke odor coming from the kitchen area.  Is there proper ventilation in place?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant was average.  There were no major issues, but a few minor details could be improved."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "There seemed to be a film on the surface of the water glasses.  Perhaps they need a more thorough rinsing after washing?"
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The overall cleanliness of the restaurant reflects the quality of the food and service.  We were very pleased with all aspects of our dining experience."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "We noticed a few crumbs on the seat cushions in the booth.  A quick vacuuming would be helpful to maintain a clean appearance."
+    },
+    {
+      "subject": "Cleanliness",
+      "message": "The ice bucket at our table seemed a bit dirty.  Would you mind replacing it with a clean one?"
     },
     {
       "subject": "Cleanliness",
@@ -2831,6 +3928,391 @@
     {
       "subject": "Price",
       "message": "Is there a service charge included in the bill?"
+    },
+
+    {
+      "subject": "Price",
+      "message": "Do you offer any senior citizen discounts?"
+    },
+    {
+      "subject": "Price",
+      "message": "The portions seem quite generous.  Are there options for sharing dishes to save money?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you have a lunch menu with more affordable options?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're celebrating a special occasion.  Do you have a prix fixe menu?"
+    },
+    {
+      "subject": "Price",
+      "message": "Are there any hidden fees, like a breadbasket charge, that we should be aware of?"
+    },
+    {
+      "subject": "Price",
+      "message": "The menu doesn't seem to list prices.  Could you provide them for us?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any happy hour specials with discounted drinks and appetizers?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're on a bit of a tight budget.  What would you recommend as the most affordable entree?"
+    },
+    {
+      "subject": "Price",
+      "message": "The prices seem a bit higher than we expected.  Is the quality of the food worth the cost?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you have a dessert menu with price listings?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any loyalty programs or points systems for frequent diners?"
+    },
+    {
+      "subject": "Price",
+      "message": "We'd like to split a dessert.  Is there a splitting charge?"
+    },
+    {
+      "subject": "Price",
+      "message": "The appetizer portions seem quite large.  Could we share one between two people?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you accept reservations for larger parties, and is there a minimum spending requirement?"
+    },
+    {
+      "subject": "Price",
+      "message": "The bill seems a bit higher than we calculated.  Could you please break it down for us?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any student discounts?"
+    },
+    {
+      "subject": "Price",
+      "message": "We noticed a limited selection of vegetarian options.  Are there any vegetarian dishes priced similarly to the meat options?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any family-style platters that could be shared by a group?"
+    },
+    {
+      "subject": "Price",
+      "message": "The price range seems to cater more towards a fine dining experience.  Are the portions large enough to justify the cost?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any weekday lunch specials?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're just looking for a light lunch.  Do you have any appetizers or smaller plates that are more affordable?"
+    },
+    {
+      "subject": "Price",
+      "message": "The online menu prices seem to be different from the ones listed here.  Which ones are accurate?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any early bird specials with discounted prices for dining earlier in the evening?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're celebrating a birthday.  Do you offer any birthday discounts or promotions?"
+    },
+    {
+      "subject": "Price",
+      "message": "The cost of bottled water seems a bit high.  Do you offer refills or free tap water?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're interested in trying a few different dishes.  Do you offer any sampler platters or tasting menus?"
+    },
+    {
+      "subject": "Price",
+      "message": "... or are those priced separately?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you validate parking for guests who dine at the restaurant?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're planning a large group event here.  Do you offer any special group menus with discounted pricing?"
+    },
+    {
+      "subject": "Price",
+      "message": "The corkage fee seems a bit expensive.  Are there any BYOB (bring your own bottle) nights offered?"
+    },
+    {
+      "subject": "Price",
+      "message": "We noticed a gratuity suggestion on the bill.  Are we obligated to pay that amount, or can we leave a different tip?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you accept mobile payment options like Apple Pay or Google Pay?"
+    },
+    {
+      "subject": "Price",
+      "message": "There seems to be a discrepancy between the price listed on the menu and what was rung up on the bill.  Could you please clarify?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any takeout or delivery options, and are the prices the same as dining in?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're on a business lunch.  Do you have separate bills available for each person?"
+    },
+    {
+      "subject": "Price",
+      "message": "The dessert portions look quite large.  Do you offer a smaller size for a lower price?"
+    },
+    {
+      "subject": "Price",
+      "message": "Is there a minimum spending requirement to use a gift certificate?"
+    },
+    {
+      "subject": "Price",
+      "message": "We'd like to bring our own cake for a celebration.  Is there a cake cutting fee?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any brunch menus on weekends, and how do the prices compare to the regular menu?"
+    },
+    {
+      "subject": "Price",
+      "message": "The appetizer we ordered seems a bit pricey for the size.  Is it meant to be shared?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any catering services for events, and how is the pricing structured?"
+    },
+    {
+      "subject": "Price",
+      "message": "Are there any hidden fees, like a service charge, that we should be aware of?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're attending a special event here tonight.  Is the prix fixe menu included in the price of the ticket, or is there an additional cost?"
+    },
+    {
+      "subject": "Price",
+      "message": "The seafood selection seems a bit more expensive.  Is there a reason for the higher pricing?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any lunch combos or sets with discounted prices?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're looking for a romantic dinner option.  Do you have any prix fixe menus for couples?"
+    },
+    {
+      "subject": "Price",
+      "message": "The online menu doesn't seem to list any prices.  Is there a way to find out the pricing before we dine here?"
+    },
+    {
+      "subject": "Price",
+      "message": "We noticed a limited gluten-free selection.  Are there any gluten-free options priced similarly to the regular dishes?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any military discounts?"
+    },
+    {
+      "subject": "Price",
+      "message": "...re splitting the bill between several people.  Does the restaurant have a minimum number of guests required to split a bill?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any seasonal menus with different pricing structures?"
+    },
+    {
+      "subject": "Price",
+      "message": "The appetizer we ordered seems a bit pricey for the size.  Is it meant to be shared?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're interested in trying a specific dish we saw advertised online.  Is the price listed there accurate?"
+    },
+    {
+      "subject": "Price",
+      "message": "The dessert menu seems a bit limited.  Are there any daily specials or off-menu desserts offered at a lower price point?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any valet parking services, and is there an additional cost associated with it?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're planning a work meeting here.  Do you have a private room available for rent, and is there a minimum spending requirement?"
+    },
+    {
+      "subject": "Price",
+      "message": "The gratuity suggestion on the bill seems a bit high.  Is it based on a specific percentage of the total bill?"
+    },
+    {
+      "subject": "Price",
+      "message": "We noticed a limited late-night menu.  Are the prices comparable to the regular menu items?"
+    },
+    {
+      "subject": "Price",
+      "message": "There seems to be a service charge included on the bill.  Was this mentioned upfront, or is it automatically added?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any rewards programs for frequent diners, and are there any signup bonuses or discounts?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're interested in hosting a private event here.  Do you have a specific event menu with pricing options, or is it customizable?"
+    },
+    {
+      "subject": "Price",
+      "message": "There seems to be a typo on the menu listing an incorrect price.  Which price is accurate?"
+    },
+    {
+      "subject": "Price",
+      "message": "We'd like to order a bottle of wine.  Do you have a wine list with price ranges to help us choose?"
+    },
+    {
+      "subject": "Price",
+      "message": "The restaurant seems quite popular.  Do you take reservations, and is there a deposit required?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're attending a special event with a prix fixe menu.  Are drinks included in the price, or are they billed separately?"
+    },
+    {
+      "subject": "Price",
+      "message": "The online reviews mentioned large portion sizes.  Are leftovers allowed to be taken home, or is there a packaging fee?"
+    },
+    {
+      "subject": "Price",
+      "message": "We noticed a daily lunch special advertised outside.  Is the price listed inclusive of tax and gratuity?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any family meal deals with multiple entrees at a discounted price?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're on a health-conscious diet.  Are there any lighter options or lower-calorie dishes on the menu, and how do the prices compare to other items?"
+    },
+    {
+      "subject": "Price",
+      "message": "The restaurant boasts a farm-to-table concept.  Does this influence the pricing of the dishes?"
+    },
+    {
+      "subject": "Price",
+      "message": "The restaurant seems very trendy.  Does the price point reflect a fine-dining experience, or is it more casual?"
+    },
+    {
+      "subject": "Price",
+      "message": "We noticed a limited breakfast menu.  Are the prices generally lower than the lunch and dinner options?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any all-you-can-eat buffets, and how much do they cost?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're planning a birthday party for a child.  Do you have a kids' menu with affordable options?"
+    },
+    {
+      "subject": "Price",
+      "message": "The online menu seems outdated.  Are the prices listed still accurate?"
+    },
+    {
+      "subject": "Price",
+      "message": "We'd like to bring our own decorations for a special occasion.  Is there a fee associated with this?"
+    },
+    {
+      "subject": "Price",
+      "message": "The restaurant seems quite spacious.  Is there a room rental fee for private events?"
+    },
+    {
+      "subject": "Price",
+      "message": "We noticed some items on the menu marked 'market price.'  Does this price fluctuate depending on the day or season?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're planning a large group outing.  Do you offer any group discounts for parties exceeding a certain number of people?"
+    },
+    {
+      "subject": "Price",
+      "message": "The menu mentions 'chef's specials.'  Are the prices for these specials listed elsewhere, or does the waiter need to inform us?"
+    },
+    {
+      "subject": "Price",
+      "message": "We'd like to try a variety of dishes.  Do you offer any sampler platters or tasting menus at a fixed price?"
+    },
+    {
+      " takeout": "Price",
+      "message": "Do the takeout portions remain the same size as the dine-in portions, or are they smaller?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're interested in trying a specific dish we saw on a review website.  Is it still available on the menu, and how much does it cost?"
+    },
+    {
+      "subject": "Price",
+      "message": "The restaurant seems to have a focus on local ingredients.  Does this sourcing method affect the pricing of the dishes?"
+    },
+    {
+      "subject": "Price",
+      "message": "We noticed a self-serve beverage station.  Are refills on drinks included in the price, or is there an additional charge?"
+    },
+    {
+      "subject": "Price",
+      "message": "The online menu seems to lack information about portion sizes.  Does the price typically reflect a single serving or a dish meant to be shared?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're on a tight budget but still want to enjoy a nice meal.  Do you have any appetizer or side dish options that are particularly affordable?"
+    },
+    {
+      "subject": "Price",
+      "message": "We noticed a limited patio seating area.  Is there a difference in pricing for patio dining compared to indoor seating?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any student meal deals or discounts with a valid student ID?"
+    },
+    {
+      "subject": "Price",
+      "message": "The bill seems a bit confusing.  Could you break down the charges for each item?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're interested in trying a specific dessert we saw on your social media page.  Is it available today, and how much does it cost?"
+    },
+    {
+      "subject": "Price",
+      "message": "There seems to be a limited vegan selection.  Are there any vegan options priced similarly to the non-vegan dishes?"
+    },
+    {
+      "subject": "Price",
+      "message": "We're just having drinks and appetizers this evening.  Is there a happy hour menu with discounted prices?"
+    },
+    {
+      "subject": "Price",
+      "message": "The restaurant seems a bit on the casual side.  Does the price range reflect a casual dining experience?"
+    },
+    {
+      "subject": "Price",
+      "message": "Do you offer any takeout specials or discounts for picking up your order instead of dining in?"
+    },
+    {
+      "subject": "Price",
+      "message": "The bill seems a bit high for the amount of food we ordered.  Are there any errors or adjustments that can be made?"
     },
     {
       "subject": "Price",
@@ -3801,6 +5283,530 @@
     },
     {
       "subject": "Drinks",
+      "message": "Do you offer any non-alcoholic cocktails with interesting flavor combinations?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails seemed a bit limited on the menu.  Are there any creative non-alcoholic options available?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We'd love to try a bottle of wine.  Do you have any recommendations based on our meal choices?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The wine list seems quite extensive.  Do you offer any wines by the glass for those who want to try a few different selections?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "I'm not familiar with many wines.  Does the staff have any expertise in helping choose a good pairing for my meal?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any seasonal drink specials, like craft cocktails or flavored iced teas?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're celebrating a special occasion.  Do you have any celebratory drink options, like champagne or specialty cocktails?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "I noticed some interesting house-made sodas on the menu.  What flavors do you recommend trying?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The description of the cocktails is quite enticing.  Could you elaborate on the ingredients used in a specific drink?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any fresh juices or smoothies for a healthy drink option?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We'd prefer sparkling water over regular water.  Do you offer any flavored sparkling water options?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The weather is quite warm today.  Do you have any refreshing iced tea or lemonade options?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "I'm trying to cut back on sugar.  Do you offer any sugar-free drink options for cocktails or sodas?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're designated drivers tonight.  Do you have a variety of interesting non-alcoholic beverages on the menu?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The happy hour menu seems like a great deal.  Do the drink specials include cocktails as well?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're planning a large group event here.  Do you offer any drink packages that include a selection of beverages?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you have a specific type of glass for each type of beer, or are they served in generic glasses?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The cocktails seem like a signature item here.  Which one would you recommend trying first?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're interested in trying a specific wine from a particular region.  Do you have any wines from [region] available?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you muddle the mint for the mojitos, or do you just leave the sprigs in the glass?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This appetizer is quite spicy.  Do you have any refreshing cocktails that would pair well with it?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "I see they offer flights of craft beers.  Can we customize the selection in the flight, or is it pre-chosen?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails sound interesting, but can they be made a little less sweet?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're celebrating a birthday.  Do you offer any sparklers or festive garnishes for drinks?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The menu mentions 'house-made syrups.'  Are these used in any of the cocktails?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "I'm feeling under the weather.  Do you have any warm or soothing drinks on the menu, like tea with honey?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish seems quite rich.  Do you recommend a light or crisp wine to complement it?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any non-alcoholic beers for those who don't want to drink alcohol?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The description mentions the cocktail is 'smoked.'  How is this achieved, and does it affect the taste significantly?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're looking for a drink to share.  Do you have any large-format cocktails or pitchers available?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The weather is chilly tonight.  Do you offer any hot toddies or mulled wine?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails seem a bit pricey for non-alcoholic beverages.  Are there any refills included?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This is a new wine for me.  Can you offer a brief description of its flavor profile?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you have any local craft beers on tap, or are they all bottled selections?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The dessert menu looks tempting.  Do you have any dessert wines or after-dinner drinks that would pair well with the sweets?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "I'm following a specific diet.  Are any of the cocktails or mocktails made with fresh fruit juices?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The happy hour menu seems like a great deal, but how late does it run?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're planning a work event here.  Do you offer any drink customization options for corporate functions?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The wine list seems overwhelming.  Can you recommend a good red wine for beginners?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish is quite flavorful.  Do you recommend a bold or a more subtle drink pairing?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails sound creative, but can they be made a little less tart?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any virgin versions of classic cocktails, like a virgin mojito?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The ice in my drink seems a bit melted.  Would it be possible to get a refill with fresh ice?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The garnish on the cocktail looks beautiful.  Is it edible?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any fresh-squeezed juices for a vitamin boost?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails seem a bit limited on the menu.  Can we customize a non-alcoholic drink with our preferred flavors?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We noticed a self-serve drink station.  What types of beverages are available there?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The menu mentions 'barrel-aged cocktails.'  Can you explain the aging process and how it affects the taste?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any decaffeinated tea options for those who are sensitive to caffeine?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish is quite spicy.  Can you recommend a beer style that would help cut through the heat?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're on a health kick.  Do you have any low-calorie or sugar-free cocktail options?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails seem like a fun option, but can they be made a little fizzier?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any house-made sodas in sugar-free varieties?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're planning a large party.  Can we pre-order drinks for the table to save time?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The wine list seems to categorize wines by region.  Do you also have any recommendations by grape varietal?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish is quite salty.  Do you recommend a wine with high or low acidity to balance the flavors?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The cocktails all sound very tempting.  Do you offer any flight tastings to try a variety of options?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're celebrating a milestone.  Do you have any specialty cocktails or drinks that are unique to this restaurant?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any flavored syrups or infusions that can be added to sparkling water for a customized drink?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails seem like a healthy alternative, but are they still made with fresh ingredients like the cocktails?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We'd love to try a bottle of wine, but we're not sure how much to order.  Do you offer a taste of the wine before we commit to a full bottle?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The weather is quite warm.  Do you have any frozen cocktails or blended drinks on the menu?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish is quite citrusy.  Do you recommend a white wine or a rosé to complement it?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any non-dairy creamer options for those who are lactose intolerant?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails seem a bit pricey for non-alcoholic beverages.  Do they come with a side of fruit or other garnishes?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We noticed a wide variety of tequilas on the menu.  Do you offer any specialty tequila cocktails?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The martini seems a bit too strong.  Would it be possible to have it toned down a bit?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're sharing a few appetizers.  Do you recommend any drinks that would pair well with a variety of flavors?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails sound interesting, but can they be made a little less sweet and more tart?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any seasonal drink specials, like flavored lemonades or sangrias?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're celebrating an anniversary.  Do you have any special champagne packages or bottle presentations?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The menu mentions 'nitro cold brew.'  Can you explain how it's different from regular cold brew?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish is quite creamy.  Do you recommend a red or white wine to complement it?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any non-alcoholic options that are still festive for a celebratory occasion?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're on a road trip and quite parched.  Do you offer any large fountain drinks with free refills?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The description mentions the cocktail is 'aged in oak barrels.'  Does this give it a smoky flavor?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're a group with mixed preferences.  Do you offer any non-alcoholic beer or wine alternatives?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish is quite rich and heavy.  Do you recommend a sparkling wine or something lighter-bodied?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails seem a bit juvenile in presentation.  Do they come in a more sophisticated glassware option?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any classic cocktails that are prepared tableside for a bit of a show?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're coming straight from work.  Do you have any happy hour specials still available?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The menu mentions 'house-made bitters.'  Can you tell us a bit more about the flavors they add to the cocktails?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dessert is very sweet.  Do you recommend a dessert wine or a glass of something else entirely?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "I'm not a big fan of carbonated beverages.  Do you have any interesting still drinks on the menu, like flavored iced teas?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The weather is quite cool tonight.  Do you offer any hot toddies or mulled ciders?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We noticed a wide variety of whiskeys on the menu.  Do you offer any whiskey flights for tasting?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails seem a bit light in volume.  Do they come in a larger size option?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're planning a business lunch.  Do you offer any non-alcoholic beverage packages suitable for professional meetings?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The menu mentions 'infused water.'  What flavors are currently available?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish is quite peppery.  Do you recommend a creamy drink to balance the spice?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any fresh fruit that can be added to cocktails for a customized flavor?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The description mentions the cocktail is 'shaken tableside.'  Does this affect the taste or presentation significantly?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're celebrating a friend's promotion.  Do you have any celebratory drink options that aren't alcoholic?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're on a gluten-free diet.  Do you offer any gluten-free beer or cider options?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails seem a bit too sweet for our taste.  Can they be adjusted to be less sugary?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any house-made sodas with unique flavor combinations, like elderflower or grapefruit rosemary?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're a large group celebrating a special occasion.  Do you recommend ordering drinks by the bottle or by the glass?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The wine list seems a bit intimidating.  Do you have any staff recommendations based on our meal choices?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish is quite salty.  Do you recommend a wine with a high or low tannin content?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The weather is perfect for patio dining.  Do you offer any refreshing sangrias or spritzes on the menu?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any juice cleanses or detoxifying drink options?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails seem a bit simple in presentation.  Can they be garnished with fresh herbs or edible flowers for a more elevated look?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We noticed a self-serve water station. Does it offer flavored water options, like cucumber or citrus?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish is quite sweet.  Do you recommend a sparkling wine or a dry white wine to complement it?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The description mentions the cocktail is 'garnished with a flamed orange peel.'  Is this done for show, or does it add to the flavor?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any non-alcoholic cocktails with a bit more complexity, like layered ingredients or unique flavor profiles?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're on a budget tonight.  Do you have any drink specials or happy hour deals available?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The menu mentions 'locally roasted coffee.'  Can you tell us the roast profile, like light or dark roast?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Can you recommend a good alcohol-free beer that has a hoppy or bitter taste similar to a traditional IPA?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails seem a bit low in fruit content.  Can they be made with more fresh fruit for added flavor and vitamins?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any house-made ginger ales or other craft sodas for a more unique flavor experience?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're a group with varying dietary restrictions.  Do you have a drink menu that clearly indicates options that are vegan, vegetarian, or gluten-free?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The wine list seems very extensive.  Do you offer any wine flights by varietal or region to help us explore different options?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish is quite bold and flavorful.  Do you recommend a wine that can stand up to the strong flavors, or a more complementary option?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The weather is quite hot today.  Do you offer any frozen cocktails or blended fruit smoothies?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're looking for a non-alcoholic drink to share.  Do you have any large-format options like flavored iced teas or fruit punches?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any creative and visually appealing mocktails that would be perfect for an Instagram photo?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We brought a bottle of wine for a special occasion.  Is there a corkage fee, and do you offer glasses for BYOB (bring your own bottle) wine?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're looking for a drink to share after dinner.  Do you have any dessert cocktails or after-dinner drinks for two?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any non-alcoholic options that are still visually appealing, like mocktails with colorful garnishes?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're celebrating a birthday.  Can you add a sparkler or special touch to any drinks for a celebratory feel?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish is quite fatty.  Do you recommend a drink with high acidity to cut through the richness?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This dish is quite garlicky.  Do you recommend a red or white wine to pair with it?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This seems like a perfect place for a girls' night out.  Do you have any fruity or refreshing cocktails on the menu?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The menu mentions 'cold brew coffee.'  Do you offer it iced or can it be served hot?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're celebrating a promotion.  Do you have any champagne by the glass available?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The menu mentions 'infused spirits.'  What flavors are currently available for infusion?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "This chocolate dessert is very decadent.  Do you recommend a sweet or a dry after-dinner wine?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "The mocktails sound refreshing.  Are they made with fresh ingredients?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "Do you offer any after-dinner drinks or digestifs, like port or specialty liquors?"
+    },
+    {
+      "subject": "Drinks",
+      "message": "We're enjoying the ambiance of the restaurant.  Do you have any signature cocktails that complement the atmosphere?"
+    },
+    {
+      "subject": "Drinks",
       "message": "The mocktails were creative and refreshing. It was a nice alternative for those who don't drink alcohol."
     },
     {
@@ -4129,6 +6135,362 @@
     },
     {
       "subject": "Location",
+      "message": "Can we have a table with a view of the garden?"
+    },
+    {
+      "subject": "Location",
+      "message": "Could we get a table in a quieter area?"
+    },
+    {
+      "subject": "Location",
+      "message": "Is it possible to sit outside on the terrace?"
+    },
+    {
+      "subject": "Location",
+      "message": "Is there a specific area that's good for conversation?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're celebrating a special occasion.  Do you have any booths available?"
+    },
+    {
+      "subject": "Location",
+      "message": "We have a stroller with us.  Is there a spacious area for seating with a stroller?"
+    },
+    {
+      "subject": "Location",
+      "message": "Is there a table near a charging outlet, in case our phones need a boost?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a mix of chatty and quiet people.  Can you recommend a seating area that would suit our needs?"
+    },
+    {
+      "subject": "Location",
+      "message": "We noticed a stage in the corner.  Are there any tables that would be less affected by potential noise from live music?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're feeling a bit chilly.  Is there a table in a warmer area of the restaurant?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with limited mobility.  Are there easily accessible tables available?"
+    },
+    {
+      "subject": "Location",
+      "message": "We have a large party.  Can you seat us all at a comfortable table together?"
+    },
+    {
+      "subject": "Location",
+      "message": "Is there a table with a bit more legroom for someone in our party?"
+    },
+    {
+      "subject": "Location",
+      "message": "This is our first time here.  Can you recommend a good table for first-time diners to get a feel for the atmosphere?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping to catch the game tonight.  Are there any tables near TVs that might be showing it?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're bringing a birthday cake.  Is there a table with enough space for the cake as well?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with varying preferences on noise level.  Do you have options for both quieter and more lively seating areas?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a more intimate setting.  Are there any smaller tables available?"
+    },
+    {
+      "subject": "Location",
+      "message": "The restaurant looks beautiful!  Is there a table with a nice view of the interior design?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a person who uses a wheelchair.  Is the restroom easily accessible from all tables?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a bit more natural light."
+    },
+    {
+      "subject": "Location",
+      "message": "We noticed a fireplace in the corner.  Are there any tables with a good view of the fireplace?"
+    },
+    {
+      "subject": "Location",
+      "message": "We have a service dog with us.  Are there any tables where a service dog wouldn't be disruptive to other diners?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table that offers a people-watching view of the restaurant."
+    },
+    {
+      "subject": "Location",
+      "message": "Is there a table near the window, for some fresh air if we need it?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group that likes to spread out a bit.  Is there a spacious table where we can comfortably relax?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're fans of the artwork on the walls.  Is there a table with a good view of a specific piece?"
+    },
+    {
+      "subject": "Location",
+      "message": "Is there a table near the patio doors, in case we decide to move outside later?"
+    },
+    {
+      "subject": "Location",
+      "message": "Is there a table with a comfortable bench seat, instead of chairs?"
+    },
+    {
+      "subject": "Location",
+      "message": "We'd love a table on the quieter side, but not too far from the restroom facilities."
+    },
+    {
+      "subject": "Location",
+      "message": "We're expecting a phone call soon.  Is there a table with good phone reception?"
+    },
+    {
+      "subject": "Location",
+      "message": "We brought a laptop to work on after dinner.  Is there a table with a plug nearby to keep it charged?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a bit more elbow room, so we can spread out our belongings."
+    },
+    {
+      "subject": "Location",
+      "message": "Is there a table near the exit, for an easy exit after the meal?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a few people who are sensitive to bright lights.  Is there a table in a dimmer area?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table that feels a bit trendy and stylish."
+    },
+    {
+      "subject": "Location",
+      "message": "The music sounds great!  Is there a table where we can still enjoy the music, but hold a conversation comfortably?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're fans of the historic details in the restaurant.  Is there a table with a view of an interesting architectural feature?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table that feels a bit more secluded for a confidential conversation."
+    },
+    {
+      "subject": "Location",
+      "message": "We noticed a private dining room.  Is it available for smaller parties, or just large groups?"
+    },
+    {
+      "subject": "Location",
+      "message": "The weather seems a bit unpredictable.  Is there a table that would be easy to move indoors if needed?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a view of the bustling city street."
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group that enjoys a bit of background noise.  Is there a table in a lively area of the restaurant?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're celebrating a graduation.  Is there a table that would be appropriate for a celebratory occasion?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a few people who get cold easily.  Is there a table away from any air conditioning vents?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a comfy booth for seating, rather than chairs."
+    },
+    {
+      "subject": "Location",
+      "message": "We noticed a beautiful water feature in the restaurant.  Is there a table with a view of the water?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a variety of dietary restrictions.  Is there a table near the server station for easy communication of our needs?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table that feels historically significant, if the restaurant has such a space."
+    },
+    {
+      "subject": "Location",
+      "message": "We're on a tight schedule.  Is there a table in a section where service tends to be faster?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a bit more legroom for people in our party who are quite tall."
+    },
+    {
+      "subject": "Location",
+      "message": "We noticed a piano in the corner.  Are there any tables that would be less affected by potential noise from live music?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a comfy couch for seating, rather than chairs."
+    },
+    {
+      "subject": "Location",
+      "message": "Is there a table in a location with good cell service reception?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're fans of natural light, but not direct sun.  Is there a table in a shaded area with good lighting?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group celebrating a promotion.  Is there a table in a location where we can make a bit of noise to celebrate?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a view of the restaurant's signature dessert display."
+    },
+    {
+      "subject": "Location",
+      "message": "The weather is perfect for dining outdoors.  Is there a table available on the patio with an umbrella for shade?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a few people who are more introverted.  Is there a table in a quieter corner of the restaurant?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a view of the restaurant's live entertainment area."
+    },
+    {
+      "subject": "Location",
+      "message": "We noticed a bookshelf in the corner.  Is there a table nearby where we can browse the books while we wait for our food?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a baby.  Is there a table in a location with easy access to the high chair station?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a bit of history, perhaps near an antique piece in the restaurant."
+    },
+    {
+      "subject": "Location",
+      "message": "The restaurant looks very spacious.  Is there a table in a more intimate area for a smaller group?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a view of the preparation area, to see the chefs at work."
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a person who has mobility limitations.  Is there a table with an easy pathway to the restroom?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a festive ambiance, for our holiday celebration."
+    },
+    {
+      "subject": "Location",
+      "message": "The restaurant seems like a popular spot.  Is there a table in a less crowded area for a more relaxed experience?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a clear view of the projector screen, in case there's a presentation happening."
+    },
+    {
+      "subject": "Location",
+      "message": "The restaurant has a beautiful outdoor space.  Is there a table on the patio with a heater, in case the weather gets chilly?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a foodie who loves to take pictures of their meals.  Is there a table with good lighting for capturing food photos?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a bit more privacy for a business discussion."
+    },
+    {
+      "subject": "Location",
+      "message": "The restaurant seems quite lively.  Is there a table in a quieter area where we can hear each other converse easily?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a mix of music lovers and those who prefer a quieter ambiance.  Is there a table in an area with adjustable music volume?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a view of the park, if there's one nearby."
+    },
+    {
+      "subject": "Location",
+      "message": "We noticed a display of artwork in the hallway.  Is there a table near the hallway where we can admire the art while waiting?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a few people who are fans of people-watching.  Is there a table near a window with a good view of the street?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table with a bit more cushion in the seating."
+    },
+    {
+      "subject": "Location",
+      "message": "We noticed a private room available for booking.  Can we reserve a table in there for a semi-private dining experience?"
+    },
+    {
+      "subject": "Location",
+      "message": "The restaurant looks very modern.  Is there a table in an area with a more classic ambiance?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a mix of people who are hard of hearing and those with good hearing.  Is there a table in a location with a moderate noise level?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're hoping for a table that feels a bit more energetic, for a fun night out."
+    },
+    {
+      "subject": "Location",
+      "message": "This is a work celebration.  Is there a table that would be suitable for a semi-formal gathering?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a mix of adults and children.  Is there a seating area that caters to families?"
+    },
+    {
+      "subject": "Location",
+      "message": "We noticed a bar area.  Can we be seated at a high-top table near the bar?"
+    },
+    {
+      "subject": "Location",
+      "message": "Is there a table near the coat check, in case we get cold later?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're looking for a table that feels a bit more private for a business lunch."
+    },
+    {
+      "subject": "Location",
+      "message": "We're celebrating an anniversary.  Is there a table with a romantic ambiance?"
+    },
+    {
+      "subject": "Location",
+      "message": "We're a group with a few people who get a bit warm easily.  Is there a table in a well-ventilated area?"
+    },
+    {
+      "subject": "Location",
       "message": "Do you have any tables with a view of the kitchen?"
     },
     {
@@ -4266,6 +6628,546 @@
     {
       "subject": "Outdoors",
       "query": "Is smoking allowed in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is smoking allowed in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there outdoor seating with a waterfront view?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we order drinks only at the outdoor bar?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there any shade available in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Do you offer blankets or heaters for outdoor seating on chilly evenings?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there live music happening on the patio tonight?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our well-behaved dog to the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "How many people can be comfortably seated at an outdoor table?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a roof in case of rain?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a fire pit on the patio that guests can enjoy?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is the outdoor seating area open year-round, or is it seasonal?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Are there any bug spray options available for use in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a view of the city skyline?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own lawn chairs to use in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a happy hour offered specifically for the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "How close is the outdoor seating area to the street traffic?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Are there any special events happening on the patio this week?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a restroom specifically for the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a different menu than the indoor dining area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a lighting option for the outdoor seating area after dark?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we pay our bill directly at the table in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a dress code for the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a misting system to cool things down on hot days?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Are there any games or activities available for use in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own music speaker to use in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a limit on how long we can stay seated in the outdoor area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a children's play area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a specific section of the outdoor seating area with more sun exposure?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we reserve a specific table in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a pet water station available in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a dedicated smoking area outdoors, separate from the dining tables?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating offer comfortable seating options, like cushioned chairs or benches?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own picnic blanket to use on the outdoor lawn area (if applicable)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a limit on the number of people allowed per table in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a festive ambiance with string lights or decorations?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a dedicated staff member for taking orders specifically in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring leftover food from the restaurant to enjoy in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby park or scenic area accessible from the outdoor seating area for a post-meal stroll?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a view of any live entertainment happening indoors?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a specific time when the outdoor seating area closes for the night?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we order takeout food and enjoy it in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a dress code specifically enforced for the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any umbrellas for shade during the day?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby body of water, like a lake or river, that can be viewed from the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Are there any restrictions on what kind of food or drinks we can bring to the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a different vibe or atmosphere compared to the indoor dining area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we split the bill between people sitting at different tables in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a dedicated staff member for clearing and cleaning tables in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a fire pit or heaters available for added warmth on chilly evenings?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a limit on the noise level for the outdoor seating area, especially for celebrations or larger groups?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we order food from the indoor menu while seated in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a designated area for watching sporting events on TVs (if applicable)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby restroom facility specifically for the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our furry friend on a leash for outdoor dining, if the restaurant allows pets?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any live music performances during the week or weekends?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a happy hour specifically offered for the outdoor seating area, with different drink specials?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we pay our bill using a contactless payment method at the table in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a specific closing time, even if the indoor restaurant remains open?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a dedicated waiting area for outdoor seating, or is it first come, first served?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own portable phone charger to use in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any blankets or throws for extra warmth on cooler evenings?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby water fountain accessible from the outdoor seating area to refill water bottles?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own board games or card games to enjoy at the table in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a festive ambiance with decorations for upcoming holidays?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a dedicated staff member for bussing tables and clearing plates in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring a small portable speaker for playing music at our table in the outdoor seating area (with permission)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any misting fans to cool down on hot and humid days?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a designated area for watching live music performances (if applicable)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby outdoor market or shopping area accessible from the restaurant's patio?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring a small cooler with our own drinks to enjoy in the outdoor seating area (with permission)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a dedicated staff member for taking orders and delivering food?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby bike rental service if we want to cycle to the restaurant and dine outdoors?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own reusable water bottles to use in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any special lighting features, like fairy lights or fire torches, for a more romantic ambiance?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby park or green space where we can walk our dog before or after dining outdoors?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we split the check for our meal directly at the table in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any bug zappers or citronella candles to deter insects?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby public transportation stop accessible from the outdoor seating area for easy departure?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own small folding chairs if the outdoor seating is full?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any heat lamps for added warmth on chilly evenings?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a limit on the number of people allowed in a single group for outdoor seating?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our well-behaved cat in a carrier for outdoor dining, if the restaurant allows pets?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any self-service water stations for refilling drinks?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby pet store accessible from the restaurant in case we need to buy something for our furry friend?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we take photos with our disposable cameras at the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any board games or yard games for guests to enjoy?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby public restroom facility accessible from the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own citronella candles for additional insect repellent in the outdoor seating area (with permission)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any special decorations for upcoming sporting events?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby lost and found at the restaurant in case we misplace something while dining outdoors?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own portable fan for cooling down on hot days in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any scenic views of a nearby historical landmark?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby playground equipment area accessible from the outdoor seating area for children to play after their meal?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own binoculars for birdwatching or enjoying the view from the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any phone charging stations for guests who need to top up their batteries?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby outdoor heating element, like a fireplace, that guests in the outdoor seating area can enjoy?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own small grill or portable cooking device for a unique outdoor dining experience (with permission)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any scenic views of a nearby airport and its taking-off planes?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the restaurant offer bug spray for guests who forgot theirs in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby dog waste station accessible from the outdoor seating area for pet owners to clean up after their furry companions?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we take leftover food from the outdoor seating area back home for our pets (if applicable)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any self-service condiments or dipping sauces for our food?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby lost and found specifically for items misplaced in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own festive decorations for a special occasion at our table in the outdoor seating area (with permission)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any misting fans specifically for cooling down pets on hot days?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby body of water, like a lake or river, where we can go for a swim after dining outdoors (if safe and allowed)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own portable table if there are no available outdoor seating options?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any scenic views of a nearby botanical garden or nature preserve?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby outdoor fitness area or workout equipment accessible from the outdoor seating area for a post-meal workout?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own instruments for a small outdoor music performance at our table (with permission)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any self-service recycling bins for disposing of used food containers?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby taxi stand or ride-sharing service pick-up zone accessible from the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own birthday decorations for a celebration at our table in the outdoor seating area (with permission)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any scenic views of a nearby mountain range or hiking trail?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby outdoor ice skating rink accessible from the outdoor seating area during winter months (if applicable)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby outdoor movie theater or performance space accessible from the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own hammock and set it up between designated trees in the outdoor seating area (with permission)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any umbrellas with a heating element for chilly evenings?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby scenic overlook or viewpoint accessible from the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own tablecloth for a picnic-style experience in the outdoor seating area (with permission)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby dog park accessible from the outdoor seating area for our furry friend to socialize?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own flowers or decorations for a special occasion at our table in the outdoor seating area (with permission)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any scenic views of a nearby riverwalk or waterfront area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any scenic views, like mountains or a garden?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our bicycles and lock them securely near the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby playground or children's activity area accessible from the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a designated smoking area for those who wish to smoke?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a limit on how long we can hold a table in the outdoor seating area, especially during peak hours?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring our own tablecloth or decorations for a special occasion in the outdoor seating area (with permission)?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any bug repellent options for guests who might need them?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a nearby walking or jogging path accessible from the outdoor seating area for some post-meal exercise?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Can we bring a small birthday cake to celebrate in the outdoor seating area?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area offer any scenic views of the local landscape or landmarks?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Does the outdoor seating area have a view of the sunset?"
+    },
+    {
+      "subject": "Outdoors",
+      "message": "Is there a heating option for the outdoor seating area on chilly evenings?"
     },
     {
       "subject": "Outdoors",
@@ -4693,6 +7595,441 @@
     },
     {
       "subject": "Family Friendly",
+      "message": "Can we request a highchair for our toddler?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Do you offer booster seats for young children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a kids' menu available?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Do you offer coloring pages or activity sheets for children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a designated family restroom available?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant have a play area for children to entertain themselves?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "How noisy does the restaurant get during peak hours? We are concerned about a fussy eater."
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there televisions with cartoons or children's programming playing in the dining area?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Do you offer any family-friendly events or activities, such as story time or magic shows?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a specific section of the restaurant that is quieter and more suitable for families with young children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer diaper changing supplies for purchase in case we forget something?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we split the bill between multiple families dining together?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "How long does it typically take for food to be served after placing an order?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is this something to consider when bringing young children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any discounts or promotions for families?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there ample stroller parking available inside the restaurant?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer microwaving services for heating up baby food?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there any family-friendly board games or toys available for children to borrow?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "How well-staffed is the restaurant during peak hours to handle families with young children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any birthday party packages for children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a designated waiting area where children can play comfortably while waiting for a table?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant have a positive reputation for being welcoming to families with young children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring our own baby wipes for diaper changes?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there any specific menu items that are popular choices for children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any healthy options on the kids' menu?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant have a policy regarding volume for children who are getting fussy?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring our own mess mats for children to use at the table?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there any highchairs with a detachable tray for easier cleaning?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any rewards programs or incentives for frequent family diners?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a designated staff member who is particularly friendly and experienced with young children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we customize a kids' meal to exclude certain ingredients for a picky eater?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any fruit or vegetable options on the kids' menu?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there any family-friendly festivals or events happening near the restaurant that we could visit before or after our meal?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any discounts for large families?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a dedicated staff member who can help with seating arrangements for families with strollers?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we take leftovers home from the kids' menu?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any activities or coloring pages specifically designed for toddlers?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there booster seats with a harness for added security for younger children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "How quickly can the staff typically accommodate requests for highchairs or booster seats?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any sippy cups for children who are not yet using regular cups?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a family restroom with a separate changing table area?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any promotions or discounts for celebrating a child's birthday?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a designated area for stroller parking that is visible from the dining tables?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring our own balloons or decorations for a child's birthday celebration?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any キッズメニュー (Kodomo menyū - Japanese for children's menu) options?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there any family-friendly movies or cartoons playing in the background at a low volume?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any options for warming up baby bottles?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a dedicated staff member who can help with highchair assembly or adjustments?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring a small gift bag for another child dining at the restaurant?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any family-friendly dessert options on the menu?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any highchairs with a reclining feature for younger babies?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring our own bibs for the children to use during the meal?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there outlets or charging stations available near the tables for keeping electronic devices charged (for entertaining children)?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any discounts for families who show a membership card to a local family association?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a dedicated staff member who can recommend menu items that are popular with children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring a small cooler bag with milk or baby food for our child?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any activities or highchairs specifically designed for toddlers who are just learning to walk?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there family-friendly restrooms equipped with step stools for children to reach the sink?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any promotions or discounts for celebrating a child's baptism or other milestones?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a designated area for stroller parking that is close to the entrance of the restaurant?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we sing a happy birthday song for our child at the restaurant without disturbing other guests?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any menu items in smaller portions that are suitable for young children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there any family-friendly museums or attractions located near the restaurant that we could visit after our meal?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any discounts for early diners, which might be helpful for families with young children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a dedicated staff member who can help with taking photos of your family during your meal?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring a small cake for celebrating a child's achievement, like a good school report?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any disposable placemats with activities or coloring games for children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a designated area for stroller parking that is well-lit, especially for evenings or nighttime dining?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we split the bill between adults and the children's meals separately?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any activities or toys specifically designed for older children (aged 8-12)?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there booster seats with a cup holder for storing drinks and preventing spills?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "How long does the restaurant typically take to prepare and serve kids' meals compared to adult entrees?"
+    },
+    {
+      "message": "Is this something to consider when managing a hungry child?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any family-friendly music playlists in the background?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any highchairs with multiple height adjustments to accommodate growing children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring our own wipeable placemats for the children to use during the meal?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there phone chargers available for rent or borrowing in case a parent's phone dies while keeping children entertained?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any family meal deals or set menus that are budget-friendly for families?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a designated staff member who can answer questions about allergens in menu items for children with dietary restrictions?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring a small cooler with ice packs to keep breast milk or formula cold for our baby?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any sensory toys or fidget items that might help to calm a restless child?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there family-friendly restrooms with diaper disposal bins available?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any family-friendly takeout options if we need to leave before our child finishes their meal?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a designated area for stroller parking that is shaded or protected from the sun during hot weather?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring a small gift for the birthday child at another table, if their parents approve?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any healthy appetizer options that might be suitable for a child who isn't interested in a full meal?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there any family-friendly parks or playgrounds located near the restaurant that we could visit before or after our meal?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any highchairs with a wide base for added stability?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a dedicated staff member who can help with reheating baby food in the restaurant's microwave?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring a small stuffed animal or comfort toy for our child to use during the meal?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any family-friendly mocktails or non-alcoholic drink options for children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a designated area for stroller parking that is monitored by security cameras for added peace of mind?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we pay for our children's meals with a separate credit card from the adult meals?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any activities or games specifically designed for teenagers (aged 13-18)?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there booster seats with a removable and washable tray for easy cleaning?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "How attentive is the wait staff in noticing when a child needs a drink refill or other assistance?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any family-friendly contests or promotions happening throughout the year?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a dedicated staff member who can help with cleaning up spills or messes made by children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring a small portable sound machine to create white noise and help a young child sleep after the meal?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any family-friendly loyalty programs where children can earn rewards?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a designated area for stroller parking that is protected from the elements?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we take leftover food from the adult menu to share with our children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any activities or games to keep children entertained while waiting for their food?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there booster seats with a tray attachment for easier cleanup?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Is there a designated area for stroller parking outside the restaurant?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Can we bring a small birthday cake to celebrate a child's birthday at the restaurant?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Does the restaurant offer any highchairs with straps to ensure the safety of young children?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "How easy is it to navigate the restaurant with a stroller?"
+    },
+    {
+      "subject": "Family Friendly",
+      "message": "Are there any sharp corners or edges in the dining area that could be a safety hazard for young children?"
+    },
+    {
+      "subject": "Family Friendly",
       "query": "Can we request a kids' meal with specific dietary requirements?"
     },
     {
@@ -5045,6 +8382,430 @@
     },
     {
       "subject": "Booking",
+      "message": "Can I make a reservation for a large group?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer online reservations, or do I need to call the restaurant?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is it possible to request a specific table location when making a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "How far in advance can I make a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you require a deposit to hold a reservation for a large party?"
+    },
+    {
+      "subject": "Booking",
+      "message": "What is your cancellation policy for reservations?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I modify an existing reservation, such as changing the number of guests or the time of arrival?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any priority reservation options for frequent diners or special occasions?"
+    },
+    {
+      "subject": "Booking",
+      "message": "If I arrive early for my reservation, is there a waiting area available?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer reservations for patio seating specifically?"
+    },
+    {
+      "subject": "Booking",
+      "message": "What happens if I miss my reservation entirely?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any confirmation email or notification after I make a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a dress code required for reservations?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I reserve a table with a view?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I combine multiple reservations if my party is split between two separate bookings?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any priority reservation options for guests celebrating a milestone birthday or anniversary?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a waitlist option if the time slot I desire for my reservation is fully booked?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table for a specific occasion and inquire about any menu customization options for guests with dietary restrictions?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any pet-friendly seating options on the patio, if applicable to my reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a dress code enforced for reservations during special events hosted by the restaurant?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I request a quiet table away from loud music or a large party, if available?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any birthday packages or promotions specifically designed for children attending with a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table with a view of a specific landmark or attraction, if available?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a buffer period between reservations, or will I be seated immediately after the prior guests depart?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any special welcome drinks or appetizers for guests with a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table for a specific occasion and inquire about any photographer recommendations the restaurant might have?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a dedicated phone line for handling reservation inquiries, separate from the main restaurant line?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any blackout dates or holidays where reservations are not accepted?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table with a comfortable chair with armrests for an elderly guest in my party?"
+    },
+    {
+      "subject": "Booking",
+      "message": "What is the restaurant's policy on splitting the bill for a reservation with multiple guests paying separately?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any special amenities or services for guests celebrating a honeymoon with a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table near a charging station for my electric vehicle, if available in the parking lot?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a limit to the number of reservation changes I can make before my visit?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any reward points or benefits for booking a reservation through a third-party app or platform?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table for a specific occasion and inquire about any special menu options for the occasion (e.g., prix-fixe for a graduation dinner)?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a dedicated area for stroller parking within the restaurant for guests with a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer a private dining room for special events that requires a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "How long do you typically hold a reservation if the party hasn't arrived?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I make a reservation for a specific time on the day of my visit?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any special promotions or discounts for booking a reservation online?"
+    },
+    {
+      "subject": "Booking",
+      "message": "What happens if my reservation is running late due to unforeseen circumstances?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table for a specific occasion, such as a birthday or anniversary?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any perks or benefits for booking a reservation through a specific platform (e.g., phone, online service)?"
+    },
+    {
+      "subject": "Booking",
+      "message": "How long does it typically take to confirm a reservation request?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I make a reservation for a table near a power outlet, in case I need to charge my laptop?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any waiting list options if the time slot I desire is fully booked?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a minimum spending requirement for reservations?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table in a quieter area of the restaurant?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I hold a table for a short period while someone from my party runs a quick errand?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any booking options for outdoor seating with a heater, in case the weather gets chilly?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a specific phone number dedicated to handling reservation inquiries?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table for a celebration, and would you be able to accommodate any decorations we bring?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any perks or upgrades for guests celebrating a special occasion with a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "If I make a reservation for a large group, is there a pre-fixe menu option available?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I request a specific server when making a reservation, if there's someone we particularly enjoy?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any early-bird specials or discounts for reservations made before a certain time?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a limit to the number of guests I can include in a single reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table with a view of the kitchen, if available?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any birthday packages or promotions that can be combined with a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "If my reservation is for a large group, can we have separate bills for each guest?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any live music performances during the time slot of my reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I make a reservation for a specific booth in the restaurant?"
+    },
+    {
+      "subject": "Booking",
+      "message": "What is the dress code for the private dining room, if applicable to my reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any special amenities for guests with reservations, such as complimentary coat check?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table near the restroom facilities for the convenience of an elderly guest in my party?"
+    },
+    {
+      "subject": "Booking",
+      "message": "How far in advance should I make a reservation for a popular weekend night?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any loyalty program points or rewards for making reservations?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table for a specific occasion, such as a business lunch or client meeting?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a cancellation fee associated with modifying the number of guests in my reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any special audiovisual equipment for presentations, if I'm booking a table for a business meeting?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table with a highchair or booster seat readily available for a child in my party?"
+    },
+    {
+      "subject": "Booking",
+      "message": "What is the restaurant's policy on corkage fees if we bring our own bottle of wine for a special occasion reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any special dietary menus that can be pre-ordered for guests with specific needs attending with a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I hold a table for a short period while someone from my party runs a quick errand?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any booking options for outdoor seating with a heater, in case the weather gets chilly?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a specific phone number dedicated to handling reservation inquiries?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table for a celebration, and would you be able to accommodate any decorations we bring?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any perks or upgrades for guests celebrating a special occasion with a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "If I make a reservation for a large group, is there a pre-fixe menu option available?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I request a specific server when making a reservation, if there's someone we particularly enjoy?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any early-bird specials or discounts for reservations made before a certain time?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a limit to the number of guests I can include in a single reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table with a view of the kitchen, if available?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any birthday packages or promotions that can be combined with a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "If my reservation is for a large group, can we have separate bills for each guest?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any live music performances during the time slot of my reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I make a reservation for a specific booth in the restaurant?"
+    },
+    {
+      "subject": "Booking",
+      "message": "What is the dress code for the private dining room, if applicable to my reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any special amenities for guests with reservations, such as complimentary coat check?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table near the restroom facilities for the convenience of an elderly guest in my party?"
+    },
+    {
+      "subject": "Booking",
+      "message": "How far in advance should I make a reservation for a popular weekend night?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any loyalty program points or rewards for making reservations?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table for a specific occasion, such as a business lunch or client meeting?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a cancellation fee associated with modifying the number of guests in my reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any special audiovisual equipment for presentations, if I'm booking a table for a business meeting?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table with a highchair or booster seat readily available for a child in my party?"
+    },
+    {
+      "subject": "Booking",
+      "message": "What is the restaurant's policy on corkage fees if we bring our own bottle of wine for a special occasion reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any special dietary menus that can be pre-ordered for guests with specific needs attending with a reservation?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table for a specific time slot during a special event the restaurant might be hosting?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a dedicated online reservation portal, or can bookings only be made over the phone?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I book a table for a specific time slot during a special event the restaurant might be hosting?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Is there a dedicated online reservation portal, or can bookings only be made over the phone?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any specific benefits for booking a reservation during off-peak hours?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Can I make a reservation for a specific chef's tasting menu?"
+    },
+    {
+      "subject": "Booking",
+      "message": "What is the latest time I can make a reservation for the evening?"
+    },
+    {
+      "subject": "Booking",
+      "message": "Do you offer any special seating arrangements for guests with accessibility requirements?"
+    },
+    {
+      "subject": "Booking",
       "query": "Can I reserve a table for a business meeting?"
     },
     {
@@ -5262,6 +9023,46 @@
     {
       "subject": "Booking",
       "query": "Can I reserve a table for a farewell dinner?"
+    },
+    {
+      "subject": "Food",
+      "message": "Does the restaurant offer any family-style portions suitable for sharing amongst a group?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a lighter option, but can you tell me if it's still flavorful and satisfying?"
+    },
+    {
+      "subject": "Food",
+      "message": "I noticed the menu description doesn't mention nuts. Can you confirm this dish is nut-free?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds perfect for a special occasion. Do you offer any celebratory dessert presentations?"
+    },
+    {
+      "subject": "Food",
+      "message": "Can I get a recommendation for a vegetarian main course that packs a bit of a spicy punch?"
+    },
+    {
+      "subject": "Food",
+      "message": "The menu mentions fresh, seasonal ingredients. Can you tell me which ingredients in this dish are currently seasonal?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a classic comfort food. Is it a recipe that's been passed down through generations?"
+    },
+    {
+      "subject": "Food",
+      "message": "Does the restaurant offer any low-carb options on the menu?"
+    },
+    {
+      "subject": "Food",
+      "message": "This dish sounds like a great vegetarian option. Can you tell me what kind of protein source it includes?"
+    },
+    {
+      "subject": "Food",
+      "message": "How filling is the appetizer selection? We're considering ordering a few to share for a light meal."
     },
     {
       "subject": "Booking",
@@ -5630,6 +9431,430 @@
     {
       "subject": "Service",
       "query": "Is there a sommelier available to help with wine selection?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I split the bill between several people?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you please recommend a dish based on my preferences?"
+    },
+    {
+      "subject": "Service",
+      "message": "Is it possible to substitute a side dish for another option on the menu?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a recommendation for a vegetarian dish?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any gluten-free bread options?"
+    },
+    {
+      "subject": "Service",
+      "message": "May I have my steak cooked a little more well-done, please?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I adjust the spiciness level of this dish?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me another napkin, please?"
+    },
+    {
+      "subject": "Service",
+
+      "message": "Do you offer any senior citizen discounts?"
+    },
+    {
+      "subject": "Service",
+      "message": "Is it possible to substitute the fries for a side salad?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a recommendation for a good after-dinner drink?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you split the dessert into separate plates for us?"
+    },
+    {
+
+      "subject": "Booking",
+      "query": "What is the maximum group size for making a reservation?"
+    },
+ 
+    {
+      "subject": "Service",
+      "message": "Do you validate parking for customers?"
+
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a to-go menu for future reference?"
+    },
+    {
+      "subject": "Service",
+      "message": "Is there a lost and found service at the restaurant?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you recommend a place to catch a ride-sharing service car nearby?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any military discounts?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get my entree with vegetables instead of potatoes?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a glass of water with lemon?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any loyalty programs or rewards cards?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I pay with a credit card?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you pack up the leftovers for my friend who couldn't make it?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any happy birthday greetings or celebrations for guests?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a recommendation for a local attraction after dinner?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a stronger drink, please?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any non-alcoholic beverage options besides soda?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get my coffee decaf?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a to-go cup for my remaining drink?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any military personnel discounts?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I adjust the temperature of the air conditioning/heating?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a different fork/knife/spoon, please?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any recommendations for dietary restrictions not listed on the menu?"
+    },
+    {
+      "subject": "Service",
+      "message": "Is it possible to box up half of my entree to take home?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a recommendation for a quiet table for a business meeting?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a complimentary glass of water while I browse the menu?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any birthday decorations or table arrangements for a special occasion?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I split the appetizer into smaller portions for everyone at the table to try?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you recommend a good wine pairing for this particular cheese selection?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any high chairs with straps for better child safety?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a recommendation for a local brewery or distillery after dinner?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a box for the leftover bread to take home?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any student discounts?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get my steak cooked medium-rare, please?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a wet wipe or hand sanitizer, please?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any private dining room rental options?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a recommendation for a vegetarian appetizer to share?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you clarify the preparation method used for this dish?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any gluten-free dessert options that are also dairy-free?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get my food boxed up separately, as I have allergies?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a reading light for the menu, if available?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any senior citizen discounts for lunch service?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a recommendation for a good cup of tea?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I bring leftovers home with me? I don't think I can finish everything."
+    },
+    {
+      "subject": "Service",
+      "message": "Could you pack my dessert to go in a separate container to avoid melting?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any phone charging options at the table?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a recommendation for a vegan option on the menu?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a refill on my soft drink, please?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any early-bird specials for breakfast service?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I substitute the dressing on my salad for another option?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a sharper knife for cutting my steak?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any takeout delivery services through third-party apps?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a recommendation for a good place to do some shopping nearby?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a menu with larger font size, if available?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any takeout loyalty programs for frequent customers?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I pay the bill separately from the rest of my party?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me another plate for sharing this dish?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any noise-cancelling headphones for guests who need them?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a recommendation for a romantic restaurant for a special occasion?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a complimentary ice water with lemon to start?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any Braille menus for visually impaired guests?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I adjust the lighting level at our table, if possible?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a doggy bag for my pet to take home leftover meat?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a stronger coffee, please?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any sugar-free syrup options for my coffee?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a recommendation for a local live music venue?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a birthday card to sign for the guest of honor?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any takeout menus with allergens clearly marked?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a recommendation for a vegetarian main course?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a menu in a different language, if available?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer catering services for events?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get my food to go instead of dining in?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a birthday dessert menu, if available?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could we please have another round of drinks?"
+    },
+    {
+      "subject": "Service",
+      "message": "Is there a Wi-Fi password available for customers?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a box to take home my leftovers?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any dietary information about the menu items?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you please slow down the service a bit, we're enjoying the conversation?"
+    },
+    {
+      "subject": "Service",
+      "message": "Is there a highchair available for my child?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get a refill on my coffee, please?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you accept separate payments for food and drinks?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you pack our dessert to go?"
+    },
+    {
+      "subject": "Service",
+      "message": "Is it possible to get a recommendation for a good taxi service?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get my burger with the cheese on the side?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any sugar-free dessert options?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you clarify the ingredients in this dish for me?"
+    },
+    {
+      "subject": "Service",
+      "message": "Is there a dress code enforced here?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get my steak cut into smaller pieces, please?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you offer any daily specials or happy hour deals?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you bring me a straw for my drink?"
+    },
+    {
+      "subject": "Service",
+      "message": "Is it possible to charge my phone somewhere?"
+    },
+    {
+      "subject": "Service",
+      "message": "Can I get my food without the sauce on top?"
+    },
+    {
+      "subject": "Service",
+      "message": "Do you have a restroom with a baby changing station?"
+    },
+    {
+      "subject": "Service",
+      "message": "Could you recommend a good wine pairing for this dish?"
+    },
+    {
+      "subject": "Service",
+      "message": "Is there a vegetarian option available for this appetizer?"
     },
     {
       "subject": "Service",
